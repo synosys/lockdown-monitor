@@ -44,17 +44,11 @@ site_type = "Project"
 local_business_type = ""
 
 # Organization name (optional)
-# Enter an organization or project name. Defaults to the site title from `config.de.toml`.
+# Enter an organization or project name. Defaults to the site title from `config.toml`.
 org_name = "Lockdown Monitor"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Projekt Lockdown Monitor von Humboldt Universität und Robert Koch-Institut, gefördert durch das Bundesgesundheitsministerium"
-
-keywords = "Mobilitätsdaten, Frank Schlosser, Mobilität in Deutschland, Prof. Dr. Dirk Brockmann, Complex Systems, Komplexe Systeme, HU Berlin, Prof. Brockmann, Dirk Brockmann"
-
-google_verification_code = "9dEOVEaB7qydj0YBXH6OlvzWEKqwTom1RALsevenjZk"
-
-robots = "index, follow"
+description = "Project Lockdown Monitor from Humboldt Universität and Robert Koch-Institute, funded by the Federal Ministry of Health"
 
 ############################
 ## Site Features
@@ -106,7 +100,7 @@ directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["10:00 bis 16:00 Montag bis Freitag (nicht während eines Lockdowns)"]
+office_hours = ["10:00 to 16:00 Monday to Friday (regulary, without lockdown)"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
