@@ -46,6 +46,4 @@ icon = "link"
 
 The monitor shows the mobility in Germany under ordinary and extraordinary circumstances.
 
-**The lockdown monitor is funded by the Federal Ministry of Health**
-
 It is updated **every day**

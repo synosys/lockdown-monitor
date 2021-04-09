@@ -9,26 +9,31 @@
   weight = 10
 
 [[main]]
-  name = "News"
-  url = "#news"
+  name = "Contakt Index"
+  url = "kontaktindex"
   weight = 20
 
 [[main]]
-  name = "People"
-  url = "#people"
+  name = "News"
+  url = "#news"
   weight = 30
 
-#[[main]]
-#  name = "Events"
-#  url = "event"
-#  weight = 40
+[[main]]
+  name = "Reports"
+  url = "blog"
+  weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "publication"
+  name = "Data and Methods"
+  url = "methods"
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "contact"
+  name = "Team"
+  url = "#people"
   weight = 60
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 70

@@ -46,6 +46,4 @@ icon = "link"
 
 Der Monitor zeigt die Mobilität in Deutschland unter gewöhnlichen und außergewöhnlichen Bedingungen.
 
-**Der Lockdown Monitor wird vom Bundesministerium für Gesundheit gefördert.**
-
 Er wird **jeden Tag** aktualisiert!
