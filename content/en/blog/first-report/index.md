@@ -1,6 +1,6 @@
 +++
 date = "2020-04-05"
-title = "First Report: Mobility in Germany and Social Distancing"
+title = "Mobility in Germany and Social Distancing"
 slug = "first-report-general-mobility"
 +++
 

@@ -1,6 +1,6 @@
 +++
 date = "2020-04-05"
-title = "Erster Report: Mobilität in Deutschland"
+title = "Mobilität in Deutschland"
 slug = "first-report-general-mobility"
 +++
 

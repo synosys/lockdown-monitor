@@ -1,6 +1,6 @@
 +++
 date = "2020-04-15"
-title = "Second Report: Mobility on the rise"
+title = "Mobility on the rise"
 slug = "second-report"
 +++
 

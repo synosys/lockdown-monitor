@@ -1,6 +1,6 @@
 +++
 date = "2020-04-15"
-title = "Zweiter Report: Anstieg der Mobilität"
+title = "Anstieg der Mobilität"
 slug = "second-report"
 draft = false
 +++

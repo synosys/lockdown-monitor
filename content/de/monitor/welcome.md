@@ -1,13 +1,16 @@
 +++
 
 # Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title= "Der Lockdown Monitor"
-hero_media = ""
+title= "Der Lockdown-Monitor"
+
+[design]
+# Choose how many columns the section has. Valid values: 1 or 2.
+columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -30,9 +33,13 @@ hero_media = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
+
 
 +++
 
-<script type='text/javascript' src='https://dub01.online.tableau.com/javascripts/api/viz_v1.js'></script>
-<div class='tableauPlaceholder' style='width: 1000px; height: 827px;'><object class='tableauViz' width='1000' height='827' style='display:none;'><param name='host_url' value='https%3A%2F%2Fdub01.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;lockdownmonitor' /><param name='name' value='datenspende&#47;Dashboard1_1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+<div class="col-md-12">
+
+<iframe frameborder="0" width="100%" height="600em" src="https://rocs.hu-berlin.de/viz/mobility-monitor-rki/"></iframe>
+
+</div>

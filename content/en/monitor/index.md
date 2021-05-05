@@ -1,8 +1,8 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
-type: widget_page
+title: "Monitor"  # Add a page title.
 
-# Homepage is headless, other widget pages are not.
+date: "2021-01-20"  # Add today's date.
 
-headless: true
+type: "widget_page"  # Page type is a Widget Page
+
 ---
