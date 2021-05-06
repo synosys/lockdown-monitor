@@ -6,7 +6,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title= "Der Lockdown-Monitor"
+title= ""
 
 [design]
 # Choose how many columns the section has. Valid values: 1 or 2.
@@ -38,7 +38,7 @@ columns = "1"
 
 +++
 
-<div class="col-md-12">
+<div class="monitor" class="col-md-12">
 
 <iframe frameborder="0" width="100%" height="600em" src="https://rocs.hu-berlin.de/viz/mobility-monitor-rki/"></iframe>
 
