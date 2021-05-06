@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Kontakt
-subtitle: Für Fragen sind wie immer erreichbar.
+subtitle: Für Fragen sind wir immer erreichbar.
 
 content:
   # Automatically link email and phone or display as text?

@@ -69,12 +69,6 @@ He is also head of the project group [Computational Epidemiology at the Robert K
 In 2017 he launched the project [Complexity Explorables](https://www.complexity-explorables.org/), a collection of interactive illustration on complex systems that continously expands in examples and is designed for teachers, instructors and people that want to gain an intuitive unterstanding of the beauty of complex dynamical processes in nature.
 
 
-# Selected Publications
-
-{{< cite page="/publication/schlosser-2020-covid" view="4" >}}
-{{< cite page="/publication/maier-2020-effective" view="4" >}}
-{{< cite page="/publication/brockmann-2013-hidden" view="4" >}}
-{{< cite page="/publication/brockmann-2006-scaling" view="4" >}}
 
 
 

@@ -19,7 +19,7 @@ columns = "1"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "#E9F2FA"
 
   # Background gradient.
   # gradient_start = "#4bb4e3"
