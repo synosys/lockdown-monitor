@@ -11,9 +11,9 @@
 [de]
   languageCode = "de"
   contentDir = "content/de"
-  title = "Lockdown Monitor"
+  title = "Mobility Monitor"
   [de.params]
-    description = "Projekt Lockdown Monitor von Humboldt Universität und Robert Koch-Institut, gefördert durch das Bundesgesundheitsministerium"
+    description = "Projekt Mobility Monitor von Humboldt Universität und Robert Koch-Institut, gefördert durch das Bundesgesundheitsministerium"
     keywords = "Mobilitätsdaten, Frank Schlosser, Mobilität in Deutschland, Prof. Dr. Dirk Brockmann, Complex Systems, Komplexe Systeme, HU Berlin, Prof. Brockmann, Dirk Brockmann"
     copyright = "&copy; Forschungsgruppe P4 Robert Koch-Institut, Prof. Dr. Dirk Brockmann"
     office_hours = ["10:00 bis 16:00 Montag bis Freitag (regulär, nicht im Lockdown)"]

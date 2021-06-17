@@ -8,10 +8,10 @@
   url = "monitor"
   weight = 10
 
-[[main]]
-  name = "Contakt Index"
-  url = "kontaktindex"
-  weight = 20
+#[[main]]
+#  name = "Contakt Index"
+#  url = "kontaktindex"
+#  weight = 20
 
 [[main]]
   name = "News"

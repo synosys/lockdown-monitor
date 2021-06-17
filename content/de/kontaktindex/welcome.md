@@ -6,7 +6,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title= "Der Lockdown Monitor"
+title= "Der Mobility Monitor"
 hero_media = ""
 
 [design.background]
