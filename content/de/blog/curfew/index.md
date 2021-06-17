@@ -34,7 +34,7 @@ Genauso ähnlich ist der Anteil der Mobilität, der in den Zeitraum einer mögli
 
 Im Vergleich zum Vorjahr liegt die tagesweise Mobilität im 7-Tage-Mittel aktuell etwa -11% unter dem Wert von 2019 (Stand 26.03.2021). Dies ist eine deutlich geringere Abnahme als im ersten Lockdown, als die Mobilität auf bis zu -40% unter das Vorjahresniveau gefallen ist.
 
-{{<snippet "/content/de/blog/current/trips_change_v2.de.html" >}}
+{{<snippet "/content/de/blog/curfew/trips_change_v2.de.html" >}}
 
 ## Stundenweiser Vergleich
 

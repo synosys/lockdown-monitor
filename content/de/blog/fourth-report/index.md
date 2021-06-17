@@ -65,4 +65,4 @@ Zwischen Weihnachten und Neujahr 2021 gab es zahlreiche Berichte über hohe Akti
 
 {{<snippet "/content/de/blog/fourth-report/trips_ausflugstourismus.de.html" >}}
 
-Wir werden die Mobilität auch im neuen Jahr 2021 beobachten und weitere Reports veröffentlichen. Bis dahin kann man weiter die aktuelle Mobilität in unserem [Mobility Monitor]({{< ref "/monitor/index.md" >}}) und in den [aktuellen Grafiken]({{< ref "/blog/current/index.md" >}}) verfolgen.
+Wir werden die Mobilität auch im neuen Jahr 2021 beobachten und weitere Reports veröffentlichen. Bis dahin kann man weiter die aktuelle Mobilität in unserem [Mobility Monitor]({{< ref "/monitor/index.md" >}}) verfolgen.

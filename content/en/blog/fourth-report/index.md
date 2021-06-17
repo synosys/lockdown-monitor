@@ -64,4 +64,4 @@ Between christmas and the new year there were many reports on increased activity
 
 {{<snippet "/content/en/blog/fourth-report/trips_ausflugstourismus.en.html" >}}
 
-We well continue to monitor mobility in the new year 2021 and publish further reports. Until then, the current mobility can be observed in the [Mobility Monitor]({{< ref "/monitor/index.md" >}}) and the plots on [current mobility]({{< ref "/blog/current/index.md" >}}).
+We well continue to monitor mobility in the new year 2021 and publish further reports. Until then, the current mobility can be observed in the [Mobility Monitor]({{< ref "/monitor/index.md" >}}).

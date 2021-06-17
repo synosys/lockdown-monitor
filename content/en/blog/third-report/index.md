@@ -59,4 +59,4 @@ One week after mobility restrictions took effect we observe a **decrease in mobi
 
 The decline in mobility is **less drastic than in spring so far**. We do expect a further decline in the coming weeks however.
 
-You can observe the current situation in our [Mobility Monitor]({{< ref "/monitor/index.md" >}}) and in the [current mobility]({{< ref "/blog/current/index.md" >}})
+You can observe the current situation in our [Mobility Monitor]({{< ref "/monitor/index.md" >}})

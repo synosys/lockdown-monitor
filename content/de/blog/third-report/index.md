@@ -59,4 +59,4 @@ Eine Woche nach den Einschränkungen vom 2. November sehen wir bereits eine Abna
 
 Die **Abnahme der Mobilität ist bisher schwächer als im Frühjahr**. Es ist aber zu erwarten, dass die Mobilität in den nächsten Wochen weiter abnimmt.
 
-Die aktuelle Entwicklung der Mobiltät kann man in unserem [Mobility Monitor]({{< ref "/monitor/index.md" >}}) und in den [aktuellen Grafiken]({{< ref "/blog/current/index.md" >}}) verfolgen.
+Die aktuelle Entwicklung der Mobiltät kann man in unserem [Mobility Monitor]({{< ref "/monitor/index.md" >}}) verfolgen.
