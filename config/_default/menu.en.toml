@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Monitor"
-  url = "monitor"
+  url = "mobility-monitor"
   weight = 10
 
 #[[main]]
@@ -20,12 +20,12 @@
 
 [[main]]
   name = "Reports"
-  url = "blog"
+  url = "reports"
   weight = 40
 
 [[main]]
   name = "Data and Methods"
-  url = "methods"
+  url = "data-info"
   weight = 50
 
 [[main]]

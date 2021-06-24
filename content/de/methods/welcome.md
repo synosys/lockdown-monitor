@@ -4,6 +4,7 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
+slug = "data-info"
 
 title= "Methoden und Daten"
 
@@ -46,9 +47,9 @@ In diesen aggregierten Zahlen lassen sich keine einzelnen Nutzer identifizieren.
 
 # Woher kommen die Daten?
 
-Bewegungsströme dieser Art werden von vielen Mobilfunkanbietern erfasst. Wir nutzen Daten der Telekom, die von der Firma [Motionlogic](https://motionlogic.de/motionlogic/) vertrieben werden, sowie Daten der Telefónica, die von der Firma [Teralytics](https://www.teralytics.net/) vertrieben werden. Diese Daten sind gewerblich erhältlich und werden von zahlreichen Unternehmen verwendet, beispielsweise von Transportunternehmen, zur Verkehrsplanung oder zur Analyse von Verkehrsinfrastruktur.
+Bewegungsströme dieser Art werden von vielen Mobilfunkanbietern erfasst. Wir nutzen Daten der Telekom, die von der Firma [T-Systems](https://www.t-systems.com/de/de) vertrieben werden, sowie Daten der Telefónica, die von der Firma [Teralytics](https://www.teralytics.net/) vertrieben werden. Diese Daten sind gewerblich erhältlich und werden von zahlreichen Unternehmen verwendet, beispielsweise von Transportunternehmen, zur Verkehrsplanung oder zur Analyse von Verkehrsinfrastruktur.
 
-Der Mobilfunkanbieter registriert, welche Geräte mit seinen Funkmasten verbunden sind. Diese Roh-Daten werden zu Bewegungsströmen aggregiert. Die personenbezogenen Daten werden dabei strikt von den Geo-Daten getrennt und bereits vor der Auswertung entfernt. Anonymität steht hier an erster Stelle. Bei Motionlogic wurde das Anonymisierungsverfahren in enger Abstimmung mit dem Bundesbeauftragten für Datenschutz und Informationsfreiheit ([BfDI](https://www.bfdi.bund.de/DE/Home/home_node.html)) entwickelt (siehe weiterführende Informationen zum [Datenschutz bei Motionlogic](https://motionlogic.de/motionlogic/datenschutz-wird-bei-motionlogic-gross-geschrieben)). Bei Telefónica ist Basis für das Bereitstellen dieser Informationen die Datenanonymisierungsplattform DAP, die in enger Zusammenarbeit mit dem Bundesdatenschutzbeauftragten entwickelt wurde (siehe weiterführende [Informationen zum Anonymisierungsverfahren von Telefónica](https://www.telefonica.de/dap.html)).
+Der Mobilfunkanbieter registriert, welche Geräte mit seinen Funkmasten verbunden sind. Diese Roh-Daten werden zu Bewegungsströmen aggregiert. Die personenbezogenen Daten werden dabei strikt von den Geo-Daten getrennt und bereits vor der Auswertung entfernt. Anonymität steht hier an erster Stelle. Bei T-Systems wurde das Anonymisierungsverfahren in enger Abstimmung mit dem Bundesbeauftragten für Datenschutz und Informationsfreiheit ([BfDI](https://www.bfdi.bund.de/DE/Home/home_node.html)) entwickelt. Bei Telefónica ist Basis für das Bereitstellen dieser Informationen die Datenanonymisierungsplattform DAP, die in enger Zusammenarbeit mit dem Bundesdatenschutzbeauftragten entwickelt wurde (siehe weiterführende [Informationen zum Anonymisierungsverfahren von Telefónica](https://www.telefonica.de/dap.html)).
 
 # Was bedeutet eine Bewegung?
 
@@ -60,7 +61,7 @@ Die Bewegung wird dann dem entsprechenden räumlichen Aggregations-Gebiet zugeor
 
 In unseren Analysen und dem Dashboard zeigen wir die Abweichung der Mobilität von der "normalen" Mobiliät. Dazu zählen wir die Anzahl der Bewegungen, und vergleichen sie mit der erwarteten Anzahl an einem normalen Vergleichszeitraum.
 
-Als Vergleichszeitraum für dem März 2020 verwenden wir die Anzahl an Bewegungen in einer Durchschnittswoche aus dem März 2019. Wenn wir einzelne Tage vergleichen berechnen wir immer die Abweichung zu dem entsprechenden Wochentag aus der Durchschnittswoche. **Update:** Die Werte im Mobility Monitor und in den aktuellen Plot beziehen sich mittlerweile nicht nur auf März 2019, sondern auf den jeweils aktuellen Monat aus 2019. Mehr Details dazu [hier]({{< ref "/blog/update-second-report" >}}).
+Als Vergleichszeitraum für dem März 2020 verwenden wir die Anzahl an Bewegungen in einer Durchschnittswoche aus dem März 2019. Wenn wir einzelne Tage vergleichen berechnen wir immer die Abweichung zu dem entsprechenden Wochentag aus der Durchschnittswoche. **Update:** Die Werte im Mobility Monitor und in den aktuellen Plot beziehen sich mittlerweile nicht nur auf März 2019, sondern auf den jeweils aktuellen Monat aus 2019. Mehr Details dazu [hier]({{< ref "/reports/update-second-report" >}}).
 
 Mathematisch gesprochen: Wenn wir annehmen dass \\(N_i^{(t)}\\) die Anzahl an Bewegungen in einem Gebiet \\(i\\) im Zeitraum \\(t\\) ist, und \\(t^\*\\) ein geeigneter Vergleichszeitraum mit normaler Mobilität ist, dann berechnet sich die Änderung der Mobilität \\(\Delta n\\) als:
 

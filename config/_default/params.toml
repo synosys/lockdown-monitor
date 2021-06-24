@@ -28,6 +28,8 @@ font = "native"
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "M"
 
+
+
 ############################
 ## Basic Info
 ############################
@@ -45,10 +47,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Mobility Monitor"
+org_name = "Covid-19 Mobility Project"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Project Mobility Monitor from Humboldt Universität and Robert Koch-Institute, funded by the Federal Ministry of Health"
+description = "Covid-19 Mobility project from Humboldt University of Berlin and Robert Koch-Institute, funded by the Federal Ministry of Health"
 
 ############################
 ## Site Features

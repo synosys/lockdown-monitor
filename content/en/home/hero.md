@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "We monitor mobility!"
+title = "Mobility and Covid-19"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 #hero_media = "hero-bg.png"
@@ -24,8 +24,8 @@ gradient_start = "#4bb4e3"
 gradient_end = "#2b94c3"
 
 # Background image.
-image = "hero-bg.png"  # Name of image in `static/media/`.
-image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+image = "hero-bg-pnas-networks.jpg"  # Name of image in `static/media/`.
+image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
 # image_position = "center"  # Options include `left`, `center` (default), or `right`.
 # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -38,12 +38,10 @@ text_color_light = true
 #   Remove a link/note by deleting a cta/note block.
 
 [cta]
-url = "monitor"
-label = "To the monitor"
+url = "mobility-monitor"
+label = "Monitor"
 icon_pack = "fas"
-icon = "link"
+icon = "chart-line"
 +++
 
-The monitor shows the mobility in Germany under ordinary and extraordinary circumstances.
-
-It is updated **every day**
+We analyze mobility in Germany during the Covid-19 pandemic.

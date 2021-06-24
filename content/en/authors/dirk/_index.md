@@ -32,13 +32,13 @@ organizations:
     adress: Philippstraße 13, 10115 Berlin
     email: dirk.brockmann@hu-berlin.de
     phone:
- 
+
   - name: Robert Koch Institute
     url: www.rki.de
     adress: Nordufer 20, 13353 Berlin
     phone: +49 (0) 30 18754 20 70
     email:
-     
+
   - name: Northwestern Institute on Complex Systems
     url: https://www.nico.northwestern.edu/
     adress:
@@ -52,10 +52,7 @@ user_groups:
 cite_name: D Brockmann
 cite_author: true
 highlight_name: false
- 
 ---
-
-# Biosketch
 
 Dirk Brockmann is Professor at the Institute of Biology at Humboldt-University of Berlin. Between 2007-2013 he was Professor for Applied Mathematics at Northwestern University. At Northwestern University he was on the faculty of [Northwestern's Institute on Complex Systems](https://www.nico.northwestern.edu/) where he still holds an external faculty position.
 
@@ -67,9 +64,3 @@ the Life-Sciences](https://www.iri-ls.hu-berlin.de/en) at Humboldt University of
 He is also head of the project group [Computational Epidemiology at the Robert Koch-Institute](https://www.rki.de/DE/Content/Forsch/Projektgruppen/Projektgruppe_4/P4_node.html), Germany's federal public health institute.
 
 In 2017 he launched the project [Complexity Explorables](https://www.complexity-explorables.org/), a collection of interactive illustration on complex systems that continously expands in examples and is designed for teachers, instructors and people that want to gain an intuitive unterstanding of the beauty of complex dynamical processes in nature.
-
-
-
-
-
-
