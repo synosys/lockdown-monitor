@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Wir beobachten Mobilität!"
+title = "Mobilität und Covid-19"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-#hero_media = "hero-bg.png"
+#hero-media = "pnas_117_52_coverthumb.jpg"
 
 [design.background]
 # Apply a background color, gradient, or image.
@@ -24,8 +24,8 @@ gradient_start = "#4bb4e3"
 gradient_end = "#2b94c3"
 
 # Background image.
-image = "hero-bg.png"  # Name of image in `static/media/`.
-image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+image = "hero-bg-pnas-networks.jpg"  # Name of image in `static/media/`.
+image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
 # image_position = "center"  # Options include `left`, `center` (default), or `right`.
 # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -37,13 +37,11 @@ text_color_light = true
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-url = "monitor"
-label = "Zum Monitor"
+url = "mobility-monitor"
+label = "zum Monitor"
 icon_pack = "fas"
-icon = "link"
+icon = "chart-line"
 
 +++
 
-Der Monitor zeigt die Mobilität in Deutschland unter gewöhnlichen und außergewöhnlichen Bedingungen.
-
-Er wird **jeden Tag** aktualisiert!
+Wir analysieren die Mobilität in Deutschland während der Covid-19 Pandemie.

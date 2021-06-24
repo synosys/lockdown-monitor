@@ -10,17 +10,17 @@ headless: true
 weight: 50
 
 title: Kontakt
-subtitle: Für Fragen sind wir immer erreichbar.
+subtitle:
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     formspree:
       id: ROCS-relaunch
 
 design:
-  columns: '2'
+  columns: "2"
 ---
