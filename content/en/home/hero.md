@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Mobility and Covid-19"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-#hero_media = "hero-bg.png"
+# hero_media = "hero-bg.png"
 
 [design.background]
 # Apply a background color, gradient, or image.
@@ -37,11 +37,22 @@ text_color_light = true
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["40px", "0", "80px", "0"]
+
 [cta]
 url = "mobility-monitor"
-label = "Monitor"
+label = "Start Monitor"
 icon_pack = "fas"
 icon = "chart-line"
 +++
 
-We analyze mobility in Germany during the Covid-19 pandemic.
+{{< rawhtml >}}
+
+<div style="display:block; text-align:left; font-size: large; margin-bottom: 40px;">
+  <p>
+  We analyze and monitor mobility in Germany<br>during the Covid-19 pandemic.
+  </p>
+</div>
+{{< /rawhtml >}}

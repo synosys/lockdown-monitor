@@ -32,11 +32,27 @@ image_darken = 0.5 # Darken the image? Range 0-1 where 0 is transparent and 1 is
 # Text color (true=light or false=dark).
 text_color_light = true
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["40px", "0", "50px", "20px"]
 +++
 
-Our research focuses on modeling the spread and the dynamics of infectious diseases.
-For this we develop mathematical models, numerical methods and application-oriented
-computer simulations of complex phenomena of expansion. In this context, we try to better 
-understand and predict the dynamics of infectious diseases using methods from complexity 
-theory, the theory of complex networks, game theory and theoretical physics in a 
-transdisciplinary approach.
+{{< rawhtml >}}
+
+<div style="display:block; text-align:left;">
+
+  <div style="font-size: large; margin-top: 30px;">
+  <p>
+  Our research focuses on the dynamics of infectious diseases.
+  </p>
+  <p>
+  We develop integrative, computational and network models, numerical methods and application-oriented computer simulations of complex contagion phenomena and disease spread.
+  </p>
+  In this context, we try to improve our understanding and predict the dynamics of infectious diseases using methods from dynamical systems theory, complexity theory, complex network science, game theory and theoretical physics in a transdisciplinary approach.
+  </p>
+  <p>
+  You can find more information about our work on our <a href="https://rocs.hu-berlin.de/">website</a>.
+  </p>
+  </div>
+</div>
+{{< /rawhtml >}}

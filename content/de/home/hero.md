@@ -36,6 +36,11 @@ text_color_light = true
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["40px", "0", "80px", "0"]
+
 [cta]
 url = "mobility-monitor"
 label = "zum Monitor"
@@ -44,4 +49,11 @@ icon = "chart-line"
 
 +++
 
-Wir analysieren die Mobilität in Deutschland während der Covid-19 Pandemie.
+{{< rawhtml >}}
+
+<div style="display:block; text-align:left; font-size: large; margin-bottom: 40px;">
+  <p>
+  Wir beobachten und analysieren die Mobilität <br>in Deutschland während der Covid-19 Pandemie. 
+  </p>
+</div>
+{{< /rawhtml >}}

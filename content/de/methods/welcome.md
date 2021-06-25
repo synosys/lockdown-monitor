@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 slug = "data-info"
 
-title= "Methoden und Daten"
+title= ""
 
 [design.background]
 # Apply a background color, gradient, or image.
@@ -36,7 +36,7 @@ title= "Methoden und Daten"
 # Welche Daten untersuchen wir?
 
 {{< rawhtml >}}
-<img class="special-img-class" style="width:400px" src="network_teralytics.png" />
+<img class="special-img-class" style="width:400px; display:block; margin-left:auto; margin-right:auto;" src="network_teralytics.png" />
 {{< /rawhtml >}}
 
 Wir analysieren **Bewegungsströme** in Deutschland, die auf Basis von Mobilfunkdaten erhoben wurden. Unsere Daten enthalten die Bewegungen, die zwischen Gebieten stattfinden. Ein Rückschluss auf die Bewegung einzelner Personen ist dabei nicht möglich. Bei den Gebieten arbeiten wir auf der räumlichen Ebene von Landkreisen.

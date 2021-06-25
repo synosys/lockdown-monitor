@@ -35,10 +35,27 @@ hero_media = ""
   # Text color (true=light or false=dark).
   text_color_light = true
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["40px", "0", "50px", "0px"]
+
 +++
 
-Im Zentrum unserer Forschung steht die Modellierung der Ausbreitung und Dynamik von Infektionskrankheiten.
-Hierzu entwickeln wir mathematische Modelle, numerische Methoden und anwendungsorientierte Computersimulationen
-komplexer Ausbreitungsphänomene. In diesem Kontext versuchen wir die Dynamik von Infektionskrankheiten mit Hilfe
-von Methoden aus der Komplexitätstheorie, der Theorie komplexer Netzwerke, der Spieltheorie und der theoretischen
-Physik in einem transdisziplinären Ansatz besser zu verstehen und vorherzusagen.
+{{< rawhtml >}}
+
+<div style="display:block; text-align:left;">
+  <div style="font-size: large;  margin-top: 30px;">
+  <p>
+  Im Fokus unserer Forschung ist die Dynamik von Infektionskrankheiten.
+  </p>
+  <p>
+  Wir entwickeln numerische Methoden, Netzwerkmodelle und anwendungsorientierte Computersimulationen von komplexen Ansteckungsphänomenen und Krankheitsausbreitung.
+  <p>
+  Unser Ziel ist es, die Dynamik von Infektionskrankheiten besser zu verstehen und vorherzusagen. Dafür verfolgen wir einen transdisziplinären Ansatz und kombinieren Methoden aus der Theorie dynamischer Systeme, der Komplexitätstheorie, der Netzwerkwissenschaft, der Spieltheorie und der theoretischen Physik.
+  </p>
+  <p>
+  Mehr Informationen zu unserer Forschung finden sich auf unserer <a href="https://rocs.hu-berlin.de/">Website</a>.
+  </p>
+  </div>
+</div>
+{{< /rawhtml >}}
