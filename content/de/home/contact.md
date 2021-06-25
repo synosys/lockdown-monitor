@@ -25,6 +25,3 @@ design:
   columns: "2"
 ---
 
-{{< rawhtml >}}
-<img class="special-img-class" src="static/bmg.jpg" />
-{{< /rawhtml >}}
