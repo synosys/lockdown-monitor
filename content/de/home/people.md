@@ -21,4 +21,6 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+  spacing:
+    padding: ["60px", "0", "40px", "0"]
 ---

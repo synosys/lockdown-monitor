@@ -3,9 +3,8 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
-slug = "data-info"
 
-title= "Methods and Data"
+title= ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -35,7 +34,7 @@ title= "Methods and Data"
 # What kind of data are we analyzing?
 
 {{< rawhtml >}}
-<img class="special-img-class" style="width:400px" src="network_teralytics.png" />
+<img class="special-img-class" style="width:400px; display:block; margin-left:auto; margin-right:auto;" src="network_teralytics.png" />
 {{< /rawhtml >}}
 
 We're analyzing **mobility flows** in Germany, which are gathered from mobile phone data. Our data contains the trips that take place between areas. These areas are on the level of counties in Germany (Landkreise).
