@@ -12,11 +12,11 @@ cite_author: true
 superuser: false
 
 # Role/position
-role: Researcher, Visual Artist
+role: Forscherin, Künstlerin
 
 # Organizations/Affiliations
 organizations:
-- name: Robert Koch-Institute
+- name: Robert Koch-Institut
   url: "http://www.rki.de"
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,4 +67,8 @@ user_groups:
 - ""
 ---
 
-Olivia joined the team in 2020 to support our analysis and visualization forces. Having a background in both engineering as well as the visual and interactive arts, her creativity and attention to detail enhance the team's work more than we could've ever hoped for.
+Seit 2020 ist Olivia in unserem Team und unterstützt uns seit dem bei unseren Analysen und
+Visualisierungsaufgaben.
+
+Sie besitzt sowohl einen Hintergrund in Software Entwicklung als auch visuelle und interaktive Künste. 
+Damit und mit ihrer Kreativität und ihrem Auge fürs Detail verbessert sie unsere Ergebnisse enorm.

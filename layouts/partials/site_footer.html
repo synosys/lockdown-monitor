@@ -11,6 +11,10 @@
   </p>
   {{ end }}
 
+  <p class="powered-by flex">
+    {{ $bmg := resources.Get ("media/bmg.jpg" ) }}
+    <img src="{{ $bmg.RelPermalink }}" style="height:150px;"><br/>
+  </p>
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
   </p>

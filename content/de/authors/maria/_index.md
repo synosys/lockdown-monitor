@@ -20,20 +20,20 @@ organizations:
   url: "http://www.hu-berlin.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: Meine Forschungsinteressen beinhalten ...
 
 interests:
-- anomaly detection
-- mobility analysis
-- quality assessment
+- Big Data - Entdecken von Abweichungen
+- Mobilitätsanalyse
+- Qualitätsabschätzungen
 
 education:
   courses:
-  - course: MSc in Space Science and Technology
+  - course: MSc in Luft- und Raumfahrtechnik
     institution: Luleå University ok Technology
     year: 2014
-  - course: BSc in Aerospace Computer Science
-    institution: University of Würzburg
+  - course: BSc in Raumfahrt-Informatik
+    institution: Universität Würzburg
     year: 2012
 
 # Social/Academic Networking
@@ -62,4 +62,7 @@ user_groups:
 - ""
 ---
 
-Maria joined the team in 2020 to support the large-scale data analyses that we're faced with during the pandemic. Her focus lies on Datenspende and mobility analyses.
+Maria kam 2020 zu unserem Team, um die Daten-Analyse der Big Data Datenbanken zu unterstützen,
+mit denen wir seit Beginn der Pandemie Februar 2020 konfrontiert waren.
+
+Ihr Fokus liegt bei den Projekten Corona-Datenspende und Mobilitätsanalysen.
