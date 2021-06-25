@@ -16,7 +16,7 @@ role: Researcher, Visual Artist
 
 # Organizations/Affiliations
 organizations:
-- name: Robert Koch-Institute
+- name: Robert Koch Institute
   url: "http://www.rki.de"
 
 # Short bio (displayed in user profile at end of posts)

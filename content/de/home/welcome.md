@@ -7,10 +7,10 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title= "Research on Complex Systems"
-hero_media = ""
+hero_media = "rki.png"
 
 [design]
-  columns = 2
+  columns = 1
 
 [design.background]
   # Apply a background color, gradient, or image.
