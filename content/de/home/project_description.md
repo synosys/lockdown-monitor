@@ -67,6 +67,10 @@ hero_media = ""
   Proceedings of the National Academy of Sciences of the United States of America, 117(52), 32883–32890.<br>
   <a href="https://doi.org/10.1073/PNAS.2012326117">https://doi.org/10.1073/PNAS.2012326117</a>   
   </p>
+  
+  <p>
+  <img src="/media/bmg.jpg" style="height: 150px" />
+ 
 
 </div>
 {{< /rawhtml >}}
