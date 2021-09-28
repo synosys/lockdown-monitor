@@ -68,9 +68,5 @@ hero_media = ""
   <a href="https://doi.org/10.1073/PNAS.2012326117">https://doi.org/10.1073/PNAS.2012326117</a>   
   </p>
   
-  <p>
-  <img src="/media/bmg.jpg" style="height: 150px" />
- 
-
 </div>
 {{< /rawhtml >}}

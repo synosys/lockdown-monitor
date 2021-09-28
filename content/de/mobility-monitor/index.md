@@ -1,8 +1,7 @@
 ---
-title: "Monitor"  # Add a page title.
+title: "Monitor" # Add a page title.
 
-date: "2021-01-20"  # Add today's date.
+date: "2021-01-20" # Add today's date.
 
-type: "widget_page"  # Page type is a Widget Page
-
+type: "widget_page" # Page type is a Widget Page
 ---

@@ -4,14 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Monitor"
+  name = "Mobility"
   url = "mobility-monitor"
   weight = 10
 
-#[[main]]
-#  name = "Contakt Index"
-#  url = "kontaktindex"
-#  weight = 20
+[[main]]
+  name = "Contacts"
+  url = "contact-index"
+  weight = 20
 
 [[main]]
   name = "News"
@@ -27,6 +27,22 @@
   name = "Data and Methods"
   url = "data-info"
   weight = 50
+
+[[main]]
+  name = "Mobility"
+  identifier = "mobility-methods"
+  pre = ""
+  url = "data-info"
+  parent = "Data and Methods"
+  weight = 5
+
+[[main]]
+  name = "Contacts"
+  identifier = "contacts-methods"
+  pre = ""
+  url = "data-info/contacts"
+  parent = "Data and Methods"
+  weight = 10
 
 [[main]]
   name = "Team"

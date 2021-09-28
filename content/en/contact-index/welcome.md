@@ -1,13 +1,15 @@
 +++
-
 # Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title= "Der Mobility Monitor"
-hero_media = ""
+title= ""
+
+[design]
+# Choose how many columns the section has. Valid values: 1 or 2.
+columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -16,7 +18,7 @@ hero_media = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "#E9F2FA"
 
   # Background gradient.
   # gradient_start = "#4bb4e3"
@@ -30,6 +32,20 @@ hero_media = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 +++
+
+<div class="contacts-title col-md-12">
+  <h2>Contacts</h2>
+</div>
+
+<div class="contacts" class="col-md-12">
+<iframe id="contact-iframe" class="contact-monitor" frameborder="0" width="100%" height="460px" src="https://rocs.hu-berlin.de/viz/contactindex-monitor/?lang=en"></iframe>
+</div>
+
+<div class="contacts-title col-md-12">
+  <p style='font-size: medium'>The graph shows the average number of contacts that a person in Germany has per day, calculated from mobile phone signals - more about the methodology <a href="/data-info/contacts/">here</a>.</p>
+
+  <p style='font-size: medium'><i>Note on usage</i>: A time range can be selected by clicking and dragging; double-clicking resets the graphic.</p>
+</div>

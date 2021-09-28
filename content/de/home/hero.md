@@ -41,19 +41,19 @@ text_color_light = true
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["40px", "0", "80px", "0"]
 
-[cta]
-url = "mobility-monitor"
-label = "zum Monitor"
-icon_pack = "fas"
-icon = "chart-line"
 
 +++
 
 {{< rawhtml >}}
 
-<div style="display:block; text-align:left; font-size: large; margin-bottom: 40px;">
+<div style="display:block; text-align:left; font-size: large; margin-bottom: 40px; max-width: 390px;">
   <p>
-  Wir beobachten und analysieren die Mobilität <br>in Deutschland während der Covid-19 Pandemie. 
+  Wir beobachten und analysieren die <b>Mobilität</b> und <b>Kontakte</b> in Deutschland während der Covid-19 Pandemie. 
   </p>
+
+  <p><a href="/de/mobility-monitor/" class="btn btn-light button-cta" role="button">zum Mobilitäts-Monitor</a></p>
+
+  <p><a href="/de/contact-index/" class="btn btn-light button-cta" role="button">zum Kontakte-Monitor</a></p>
+
 </div>
 {{< /rawhtml >}}
