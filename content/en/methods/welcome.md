@@ -31,7 +31,7 @@ title= ""
 
 +++
 
-# What kind of data are we analyzing?
+# What kind of mobility data are we analyzing?
 
 {{< rawhtml >}}
 <img class="special-img-class" style="width:400px; display:block; margin-left:auto; margin-right:auto;" src="network_teralytics.png" />
@@ -45,19 +45,19 @@ A trip can start and end in the same area, but we don't know _where_ within the 
 
 It is not possible to identify single individuals from these aggregated numbers. The data also does **not contain any personal information** such as age or gender.
 
-# Where is the data from?
+## Where is the data from?
 
 Mobility flows of this kind are collected by many mobile phone providers. We use data from the german Telekom, which is distributed by the company [T-Systems](https://www.t-systems.com/en/en), as well as data from Telefónica, which is analyzed and aggregated by the company [Teralytics](https://www.teralytics.net/). This kind of data is commercially available and is used, for example, by public transportation companies, for predicting traffic or to improve road infrastructure.
 
 Here's how the data is generated: The mobile phone provider registers which devices are connected to certain cell towers. This raw data is then being aggregated to mobility flows. All personal information is stripped from the spatial information at this point. Preserving anonimity is the primary goal in this process. T-Systems developed its anonymization procedure in collaboration with the Federal Commissioner for Data Protection and Freedom of Information ([BfDI](https://www.bfdi.bund.de/EN/Home/home_node.html). At Telefónica, the basis for providing this information is the data anonymization platform DAP, which was developed in collaboration with the BfDI (see further information on [anonymization at Telefónica](https://www.telefonica.de/dap.html)).
 
-# What is a movement?
+## What is a movement?
 
 A movement is registered by the mobile phone provider when an individual switches cell tower areas, and ends when the person becomes stationary again. The start- and end-tower can be the same.
 
 The movement is then attributed to the corresponding spatial aggregation area, for example the county (Landkreis), and added to all other movements counted in a time frame. If the total number of movements between two areas fall below a certain threshold, the movements are not included in the data to ensure the anonymity of individuals.
 
-# How do we compute the change in mobility?
+## How do we compute the change in mobility?
 
 In our analysis and the dashboard, we show the deviation in mobility from a "normal" baseline. For this, we count all movements and compare them to the number we would expect in a usual, comparable timeframe.
 

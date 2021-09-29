@@ -33,7 +33,7 @@ title= ""
 
 +++
 
-# Welche Daten untersuchen wir?
+# Welche Mobilitätsdaten untersuchen wir?
 
 {{< rawhtml >}}
 <img class="special-img-class" style="width:400px; display:block; margin-left:auto; margin-right:auto;" src="network_teralytics.png" />
@@ -45,19 +45,19 @@ Die Daten umfassen nur die **Anzahl an Bewegungen** zwischen und innerhalb von G
 
 In diesen aggregierten Zahlen lassen sich keine einzelnen Nutzer identifizieren. Die Daten umfassen auch **keinerlei personenbezogenen Informationen** wie Alter oder Geschlecht, auch nicht als aggregierte Statistiken.
 
-# Woher kommen die Daten?
+## Woher kommen die Daten?
 
 Bewegungsströme dieser Art werden von vielen Mobilfunkanbietern erfasst. Wir nutzen Daten der Telekom, die von der Firma [T-Systems](https://www.t-systems.com/de/de) vertrieben werden, sowie Daten der Telefónica, die von der Firma [Teralytics](https://www.teralytics.net/) vertrieben werden. Diese Daten sind gewerblich erhältlich und werden von zahlreichen Unternehmen verwendet, beispielsweise von Transportunternehmen, zur Verkehrsplanung oder zur Analyse von Verkehrsinfrastruktur.
 
 Der Mobilfunkanbieter registriert, welche Geräte mit seinen Funkmasten verbunden sind. Diese Roh-Daten werden zu Bewegungsströmen aggregiert. Die personenbezogenen Daten werden dabei strikt von den Geo-Daten getrennt und bereits vor der Auswertung entfernt. Anonymität steht hier an erster Stelle. Bei T-Systems wurde das Anonymisierungsverfahren in enger Abstimmung mit dem Bundesbeauftragten für Datenschutz und Informationsfreiheit ([BfDI](https://www.bfdi.bund.de/DE/Home/home_node.html)) entwickelt. Bei Telefónica ist Basis für das Bereitstellen dieser Informationen die Datenanonymisierungsplattform DAP, die in enger Zusammenarbeit mit dem Bundesdatenschutzbeauftragten entwickelt wurde (siehe weiterführende [Informationen zum Anonymisierungsverfahren von Telefónica](https://www.telefonica.de/dap.html)).
 
-# Was bedeutet eine Bewegung?
+## Was bedeutet eine Bewegung?
 
 Eine Bewegung wird vom Mobilfunkanbieter erkannt, wenn sich eine Person zwischen Funkzellen bewegt hat und wieder stationär wird. Start- und Endzelle können dabei auch übereinstimmen.
 
 Die Bewegung wird dann dem entsprechenden räumlichen Aggregations-Gebiet zugeordnet, beispielsweise dem Landkreis, und mit allen Bewegungen im Zeitraum zusammengezählt. Falls die Gesamtzahl an Bewegungen zwischen zwei Gebieten unter einer bestimmten Schwelle liegt werden diese nicht in die Daten aufgenommen, um die Anonymität von Individuen sicherzustellen.
 
-# Wie berechnen wir die Änderung der Mobilität?
+## Wie berechnen wir die Änderung der Mobilität?
 
 In unseren Analysen und dem Dashboard zeigen wir die Abweichung der Mobilität von der "normalen" Mobiliät. Dazu zählen wir die Anzahl der Bewegungen, und vergleichen sie mit der erwarteten Anzahl an einem normalen Vergleichszeitraum.
 

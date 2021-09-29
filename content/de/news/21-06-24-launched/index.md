@@ -1,5 +1,5 @@
 ---
-title: Redesign des Monitors
+title: Redesign des Mobility-Monitors
 date: 2021-06-24
 ---
 

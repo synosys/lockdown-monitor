@@ -8,7 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 45
-active: false
+active: true
 
 title:
 subtitle:
@@ -28,8 +28,9 @@ design:
     <h3>funded by</h3>
   </div>
   <div>
-    <img class="special-img-class" style="width:200px; display:inline; margin-left:auto; margin-right:30px;" src="home/RKI-Logo_big.gif" />
-    <img class="special-img-class" style="width:200px; display:inline; margin-left:30px; margin-right:auto;" src="home/BMG_Logo.svg" />
+    <img class="special-img-class" style="width:100%; max-width:200px; display:inline; margin-left:30px; margin-right:auto;" src="bmg.jpg" />
+    <img class="special-img-class" style="width:100%; max-width:200px; display:inline; margin-left:auto; margin-right:30px;" src="RKI-Logo_big.gif" />
+
   </div>
 </div>
 {{< /rawhtml >}}

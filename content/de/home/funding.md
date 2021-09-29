@@ -5,12 +5,12 @@ widget: blank
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 45
 
-title: "Gefördert durch"
+title: ""
 subtitle:
 
 content:
@@ -24,9 +24,12 @@ design:
 {{< rawhtml >}}
 
 <div style="display:block;">
+  <div style="display:block; margin-left:auto; margin-right:auto; margin-bottom:30px">
+    <h3>unterstützt durch</h3>
+  </div>
   <div>
-    <img class="special-img-class" style="width:200px; display:inline; margin-left:auto; margin-right:30px;" src="home/RKI-Logo_big.gif" />
-    <img class="special-img-class" style="width:200px; display:inline; margin-left:30px; margin-right:auto;" src="home/BMG_Logo.svg" />
+    <img class="special-img-class" style="width:100%; max-width:200px; display:inline; margin-left:30px; margin-right:auto;" src="bmg.jpg" />
+    <img class="special-img-class" style="width:100%; max-width:200px; display:inline; margin-left:auto; margin-right:30px;" src="RKI-Logo_big.gif" />
   </div>
 </div>
 {{< /rawhtml >}}

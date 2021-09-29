@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "Mobility and Covid-19"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-# hero_media = "hero-bg.png"
+#hero-media = "pnas_117_52_coverthumb.jpg"
 
 [design.background]
 # Apply a background color, gradient, or image.
@@ -41,18 +41,20 @@ text_color_light = true
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["40px", "0", "80px", "0"]
 
-[cta]
-url = "mobility-monitor"
-label = "Start Monitor"
-icon_pack = "fas"
-icon = "chart-line"
+
 +++
 
 {{< rawhtml >}}
 
-<div style="display:block; text-align:left; font-size: large; margin-bottom: 40px;">
+<div style="display:block; text-align:left; font-size: large; margin-bottom: 40px; max-width: 400px;">
   <p>
-  We analyze and monitor mobility in Germany<br>during the Covid-19 pandemic.
+  We analyze and monitor <b>mobility</b> and <b>contacts</b> in Germany during the Covid-19 pandemic.
   </p>
+
+  <p><a href="/mobility-monitor/" class="btn btn-light button-cta button-link" role="button">Mobility monitor</a></p>
+
+  <p><a href="/contact-index/" class="btn btn-light button-cta button-link" role="button">Contact monitor</a></p>
+
 </div>
+
 {{< /rawhtml >}}
