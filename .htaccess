@@ -1,0 +1,10 @@
+# Permanent URL redirect for the new paths (June 2021)
+RewriteEngine on
+Redirect 301 /contact/ https://www.covid-19-mobility.org/#contact
+Redirect 301 /de/contact/ https://www.covid-19-mobility.org/de/#contact
+Redirect 301 /de/team/ https://www.covid-19-mobility.org/de/#people
+Redirect 301 /team/ https://www.covid-19-mobility.org/#people
+Redirect 301 /contact https://www.covid-19-mobility.org/#contact
+Redirect 301 /de/contact https://www.covid-19-mobility.org/de/#contact
+Redirect 301 /de/team https://www.covid-19-mobility.org/de/#people
+Redirect 301 /team https://www.covid-19-mobility.org/#people

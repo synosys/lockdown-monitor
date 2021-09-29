@@ -87,7 +87,7 @@ show_related = {post = false, project = false, publication = false, talk = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lockdown-monitor@rki.de"
+email = "mobility-monitor@rki.de"
 phone = ""
 
 # Address
