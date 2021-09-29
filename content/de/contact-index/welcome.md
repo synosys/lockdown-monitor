@@ -48,5 +48,7 @@ columns = "1"
 <div class="contacts-title col-md-12">
   <p style='font-size: medium'>Die Grafik zeigt die durchschnittliche Anzahl an Kontakten, die eine Person in Deutschland pro Tag hat, berechnet aus Mobilfunksignalen - mehr zur Methodik <a href="/de/data-info/contacts">hier</a>.</p>
 
-  <p style='font-size: medium'><i>Hinweis zur Bedienung</i>: Durch Klicken und Ziehen kann eine Zeitbereich ausgewählt werden; ein Doppelklick setzt die Grafik zurück.</p>
+  <p style='font-size: medium'>Die Daten selbst sind <a href="https://rocs.hu-berlin.de/viz/contactindex-monitor/contactindex-data/data/">hier</a> verfügbar.</p>
+
+  <p style='font-size: medium'><i>Hinweis zur Bedienung</i>: Durch <b>Klicken</b> und Ziehen kann ein Zeitbereich ausgewählt werden; ein <b>Doppelklick</b> setzt die Grafik zurück.</p>
 </div>
