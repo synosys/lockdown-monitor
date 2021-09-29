@@ -46,6 +46,8 @@ Die Anzahl an Kontakten gibt uns einen Einblick in das Infektionsgeschehen. Weni
 
 Im [Kontakte-Monitor](/de/contact-index) zeigen wir die Anzahl an Kontakten in Deutschland im Zeitverlauf. Im Folgenden erklären wir, wie diese Kontakte aus den GPS-Daten von Mobiltelefonen gemessen werden.
 
+Die Daten die im Monitor gezeigt werden sind [hier](https://rocs.hu-berlin.de/viz/contactindex-monitor/contactindex-data/data/) online verfügbar.
+
 ## Welche Daten werden untersucht?
 
 Die Analysen hier beruhen auf GPS-Trajektorien von in Deutschland lebenden Personen. Was wir jedoch von unserem Kooperationspartner erhalten, ist nur die **durchschnittliche Anzahl der Kontakte pro Tag** sowie deren **Varianz** (im Abschnitt "Was ist ein Kontakt?" unten erklären wir, wie diese Beobachtungsgrößen mit GPS-Trajektorien zusammenhängen). Wir haben **keinen Zugang zu den GPS-Standortdaten**, auf deren Grundlage diese Maße berechnet werden.
