@@ -46,6 +46,8 @@ The **number of contacts** thus gives us an insight into the course of the epide
 
 In the [Contacts Monitor](/en/contact-index), we show the number of contacts in Germany over time. In the following, we explain how these contacts are measured from GPS data of cell phones.
 
+The data shown in the monitor is available [here](https://rocs.hu-berlin.de/viz/contactindex-monitor/contactindex-data/data/).
+
 ## What kind of data is analyzed?
 
 The analyses here are based on GPS trajectories of people living in Germany. However, what we receive from our cooperation partner is only the **average number of contacts per day** as well as their **variance** (in the section "What is a contact?" below, we explain how these observables relate to GPS trajectories). We do **not have access to the GPS location data** on which these measures are calculated.

@@ -47,5 +47,7 @@ columns = "1"
 <div class="contacts-title col-md-12">
   <p style='font-size: medium'>The graph shows the average number of contacts that a person in Germany has per day, calculated from mobile phone signals - more about the methodology <a href="/data-info/contacts/">here</a>.</p>
 
-  <p style='font-size: medium'><i>Note on usage</i>: A time range can be selected by clicking and dragging; double-clicking resets the graphic.</p>
+  <p style='font-size: medium'>The data shown is available <a href="https://rocs.hu-berlin.de/viz/contactindex-monitor/contactindex-data/data/">here</a>.</p>
+
+  <p style='font-size: medium'><i>Note on usage</i>: A time range can be selected by <b>clicking</b> and dragging; <b>double-clicking</b> resets the graphic.</p>
 </div>
