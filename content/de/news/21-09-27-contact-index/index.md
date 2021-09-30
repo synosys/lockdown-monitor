@@ -1,5 +1,5 @@
 ---
-title: "Neuer Monitor: Kontakte und die Epidemie"
+title: "Neuer Monitor: Kontakte und die Pandemie"
 date: 2021-09-27
 ---
 

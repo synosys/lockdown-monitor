@@ -33,14 +33,14 @@ title= ""
 
 +++
 
-# Kontakte und die Epidemie
+# Kontakte und die Pandemie
 
 {{< rawhtml >}}
 
 <div style="height: 20px"></div>
 {{< /rawhtml >}}
 
-Wie sich eine Epidemie entwickelt, hängt von vielen Faktoren ab: von der Biologie des Erregers, von seiner Anfälligkeit für äußere Einflüsse wie Feuchtigkeit und Temperatur, vom Erfolg von Impfkampagnen, aber vor allem davon, wie wir miteinander in Kontakt treten: **Übertragungen finden for allem statt, wenn Menschen miteinander Kontakt haben.**
+Wie sich eine Pandemie entwickelt, hängt von vielen Faktoren ab: von der Biologie des Erregers, von seiner Anfälligkeit für äußere Einflüsse wie Feuchtigkeit und Temperatur, vom Erfolg von Impfkampagnen, aber vor allem davon, wie wir miteinander in Kontakt treten: **Übertragungen finden for allem statt, wenn Menschen miteinander Kontakt haben.**
 
 Die Anzahl an Kontakten gibt uns einen Einblick in das Infektionsgeschehen. Weniger Kontakte erschweren es dem Erreger, sich in der Bevölkerung auszubreiten, wohingegen mehr Kontakte eine schnelle Ausbreitung begünstigen.
 
