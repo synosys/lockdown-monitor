@@ -33,16 +33,16 @@ title= ""
 
 +++
 
-# Contacts and the epidemic
+# Contacts and the pandemic
 
 {{< rawhtml >}}
 
 <div style="height: 20px"></div>
 {{< /rawhtml >}}
 
-How an epidemic develops depends on many factors: the biology of the pathogen, its susceptibility to external influences such as humidity and temperature, the success of vaccination campaigns, but most of all it is determined by contacts between individuals: **transmissions occur primarily when people have contact with each other.**
+How a pandemic develops depends on many factors: the biology of the pathogen, its susceptibility to external influences such as humidity and temperature, the success of vaccination campaigns, but most of all it is determined by contacts between individuals: **transmissions occur primarily when people have contact with each other.**
 
-The **number of contacts** thus gives us an insight into the course of the epidemic. Fewer contacts make it more difficult for the pathogen to spread through the population, whereas more contacts promote rapid spread.
+The **number of contacts** thus gives us an insight into the course of the pandemic. Fewer contacts make it more difficult for the pathogen to spread through the population, whereas more contacts promote rapid spread.
 
 In the [Contacts Monitor](/en/contact-index), we show the number of contacts in Germany over time. In the following, we explain how these contacts are measured from GPS data of cell phones.
 
@@ -74,7 +74,7 @@ Each contact can be considered a **connection** between two devices in a network
 <img class="special-img-class" style="width:100%; display:block; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:30px;" src="Kontakt_Index Computation_simple_en_small.jpeg" />
 {{< /rawhtml >}}
 
-The number of contacts between people influences the spread of an epidemic. The measured contacts therefore give us an **insight into the course of the epidemic**.
+The number of contacts between people influences the spread of an the disease. The measured contacts therefore give us an **insight into the course of the pandemic**.
 
 The **mean number of contacts** indicates how many other people on average can potentially be infected by a single infected person.
 
