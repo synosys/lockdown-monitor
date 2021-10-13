@@ -19,13 +19,13 @@ In Deutschland hingegen, wie auch in den meisten anderen europäischen Ländern,
 
 {{<snippet "/content/de/reports/wan/seats_countries.de.svg" >}}
 
-_Diese Grafik zeigt die aggregierten Flugkapazitäten <mark style="background-color: #bd1550; opacity: 0.8; color: #fff">Deutschlands</mark> im Vergleich zu den <mark style="background-color: #666; opacity: 0.8; color: #fff">USA</mark>, <mark style="background-color: #bbb; opacity: 0.8; color: #000">China</mark> und <mark style="background-color: #888; opacity: 0.8; color: #fff">Großbritannien</mark>. Die Sitzkapazität bezieht sich auf das Level von Januar 2020._
+_Diese Grafik zeigt die aggregierten Flugkapazitäten <mark style="background-color: #bd1550; opacity: 1; color: #fff">Deutschlands</mark> im Vergleich zu den <mark style="background-color: #666; opacity: 1; color: #fff">USA</mark>, <mark style="background-color: #bbb; opacity: 1; color: #000">China</mark> und <mark style="background-color: #888; opacity: 1; color: #fff">Großbritannien</mark>. Die Sitzkapazität bezieht sich auf das Level von Januar 2020._
 
 Es ist auf den ersten Blick überraschend, dass der Flugverkehr in Ländern wie den USA und China fast wieder auf Normalniveau liegt. Ist China nicht weiterhin sehr abgeschottet von der Welt? Ja, aber große Länder wie China haben viele Inlandsflüge, während in kleineren Ländern internationale Flüge überwiegen. Das wird deutlich, wenn wir Inlands- und Auslandsflügen unterscheiden.
 
 {{<snippet "/content/de/reports/wan/domestic_international_china_us.de.svg" >}}
 
-_Diese Graphik zeigt die aggregierte Flugkapazitäten Chinas und der USA, aufgeteilt nach <mark style="background-color: #490a3d; opacity: 0.8; color: #fff">Inlandsflügen</mark> und <mark style="background-color: #bd1550; opacity: 0.8; color: #fff">Auslandsflügen</mark>. Die Volumen sind gestapelt, was zeigt wie gering der Anteil an Auslandsflügen ist, besonders in China._
+_Diese Graphik zeigt die aggregierte Flugkapazitäten Chinas und der USA, aufgeteilt nach <mark style="background-color: #490a3d; opacity: 1; color: #fff">Inlandsflügen</mark> und <mark style="background-color: #bd1550; opacity: 1; color: #fff">Auslandsflügen</mark>. Die Volumen sind gestapelt, was zeigt wie gering der Anteil an Auslandsflügen ist, besonders in China._
 
 In China konnte sich der inländische Flugverkehr rasch erholen, während der internationale Verkehr fast vollständig zum Erliegen kam. In den USA sehen wir einen langsamen, aber stetigen Anstieg.
 
@@ -33,7 +33,7 @@ In Deutschland ist die Dynamik eine ganz andere. Einerseits überwiegen hier nat
 
 {{<snippet "/content/de/reports/wan/domestic_international_germany.de.svg" >}}
 
-_Diese Graphik zeigt die aggregierte Flugkapazitäten Deutschlands, aufgeteilt nach <mark style="background-color: #490a3d; opacity: 0.8; color: #fff">Inlandsflügen</mark> und <mark style="background-color: #bd1550; opacity: 0.8; color: #fff">Auslandsflügen</mark>._
+_Diese Graphik zeigt die aggregierte Flugkapazitäten Deutschlands, aufgeteilt nach <mark style="background-color: #490a3d; opacity: 1; color: #fff">Inlandsflügen</mark> und <mark style="background-color: #bd1550; opacity: 1; color: #fff">Auslandsflügen</mark>._
 
 Es ist möglich, dass viele Reisende weiterhin die Enge der Flugzeugkabine meiden oder auf Reisen verzichtet. Auch möglich wäre, dass es sich hier um viele Geschäftsreisen gehandelt hat, die aktuell nicht stattfinden oder sich in das Web verlagert haben. In dem Fall könnte es sich um eine permanente Veränderung handeln.
 
@@ -43,9 +43,9 @@ Die meisten Flugreisen in Deutschland sind Auslandsflüge, aber wohin fliegen di
 
 {{<snippet "/content/de/reports/wan/destinations.de.svg" >}}
 
-_Diese Grafik zeigt die 5 am Häufigsten angeflogenen Ziele jeden Monat. Die meisten Flüge gehen nach <mark style="background-color: #bd1550; opacity: 0.8; color: #fff">Europa:</mark> Spanien (**ES**), Großbritannien (**GB**), Italien (**IT**), Österreich (**AT**), Rumänien (**RO**), Polen (**PL**), Griechenland (**GR**), Portugal (**PT**) und die Niederlande (**NL**) sind alle vertreten.
-Zwei Länder liegen in <mark style="background-color: seagreen; opacity: 0.8; color: #fff">Asien:</mark> die Türkei (**TR**) und die Vereinigten Arabischen Emirate(**AE**), und ein Land in
-<mark style="background-color: dodgerblue; opacity: 0.8; color: #fff">Amerika:</mark> die USA (**US**)._
+_Diese Grafik zeigt die 5 am Häufigsten angeflogenen Ziele jeden Monat. Die meisten Flüge gehen nach <mark style="background-color: #bd1550; opacity: 1; color: #fff">Europa:</mark> Spanien (**ES**), Großbritannien (**GB**), Italien (**IT**), Österreich (**AT**), Rumänien (**RO**), Polen (**PL**), Griechenland (**GR**), Portugal (**PT**) und die Niederlande (**NL**) sind alle vertreten.
+Zwei Länder liegen in <mark style="background-color: seagreen; opacity: 1; color: #fff">Asien:</mark> die Türkei (**TR**) und die Vereinigten Arabischen Emirate(**AE**), und ein Land in
+<mark style="background-color: dodgerblue; opacity: 1; color: #fff">Amerika:</mark> die USA (**US**)._
 
 Wir sehen, dass sich die meistgeflogenen Routen während der Pandemie ständig geändert haben, wie sich ja auch die Reisebestimmungen und Inzidenzen geändert haben. Im ersten Lockdown waren alle nichteuropäischen Lander komplett aus den Top 5 verschwunden. Im zweiten Lockdown sehen wir einige recht ungewöhnliche Ziele wie Portugal und insbesondere die Vereinigten Arabischen Emirate, die zu diesem Zeitpunkt offener für den Tourismus waren. In den Sommermonaten dominieren mediterrane Länder, wie Spanien, Griechenland und die Türkei.
 

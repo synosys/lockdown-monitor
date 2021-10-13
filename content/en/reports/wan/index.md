@@ -16,13 +16,13 @@ In Germany and most other European countries, air traffic initially recovered sl
 
 {{<snippet "/content/en/reports/wan/seats_countries.svg" >}}
 
-_This plot shows the aggregated air-traffic of <mark style="background-color: #bd1550; opacity: 0.8; color: #fff">Germany</mark> in comparison to the <mark style="background-color: #666; opacity: 0.8; color: #fff">USA</mark>, <mark style="background-color: #bbb; opacity: 0.8; color: #000">China</mark> and the <mark style="background-color: #888; opacity: 0.8; color: #fff">UK</mark>. The traffic is shown in relation to the (mostly) pre-pandemic level of January 2020._
+_This plot shows the aggregated air-traffic of <mark style="background-color: #bd1550; opacity: 1; color: #fff">Germany</mark> in comparison to the <mark style="background-color: #666; opacity: 1; color: #fff">USA</mark>, <mark style="background-color: #bbb; opacity: 1; color: #000">China</mark> and the <mark style="background-color: #888; opacity: 1; color: #fff">UK</mark>. The traffic is shown in relation to the (mostly) pre-pandemic level of January 2020._
 
 The differences in network recovery are surprising in some cases. China is still largely isolated from the world, so how can it be recovering so well? Like the U.S., China is a large country with plenty of domestic air traffic. Conversely, small countries have mostly international air traffic networks. To get a more detailed picture of the pandemic’s effect, it’s helpful to separate recovery into two categories: domestic and international.
 
 {{<snippet "/content/en/reports/wan/domestic_international_china_us.svg" >}}
 
-_This plot shows the <mark style="background-color: #490a3d; opacity: 0.8; color: #fff">domestic</mark> and <mark style="background-color: #bd1550; opacity: 0.8; color: #fff">international</mark> travel volume of China and the USA. The volumes are stacked, so yes, there is very little international travel with China._
+_This plot shows the <mark style="background-color: #490a3d; opacity: 1; color: #fff">domestic</mark> and <mark style="background-color: #bd1550; opacity: 1; color: #fff">international</mark> travel volume of China and the USA. The volumes are stacked, so yes, there is very little international travel with China._
 
 In China, domestic traffic recovered quickly while international traffic ceased almost completly. In the U.S., both international and domestic travel recovered slowly but steadily.
 
@@ -30,7 +30,7 @@ In Germany, most travel is international travel rather than domestic. During the
 
 {{<snippet "/content/en/reports/wan/domestic_international_germany.svg" >}}
 
-_This plot shows the <mark style="background-color: #490a3d; opacity: 0.8; color: #fff">domestic</mark> and <mark style="background-color: #bd1550; opacity: 0.8; color: #fff">international</mark> travel volume of Germany._
+_This plot shows the <mark style="background-color: #490a3d; opacity: 1; color: #fff">domestic</mark> and <mark style="background-color: #bd1550; opacity: 1; color: #fff">international</mark> travel volume of Germany._
 
 It is possible that domestic business travel, which contributed much to domestic air travel in Germany, has been replaced by conference calls. But that is only speculation. It is unclear if domestic air-traffic in Germany will ever return to pre-pandemic levels.
 
@@ -40,9 +40,9 @@ Now we know that international travel is dominating German air-travel, let's loo
 
 {{<snippet "/content/en/reports/wan/destinations.svg" >}}
 
-_This plot shows the Top 5 destinations of German air-traffic each month. Most are in <mark style="background-color: #bd1550; opacity: 0.8; color: #fff">Europe:</mark> Spain (**ES**), Great Britain (**GB**), Italy (**IT**), Austria (**AT**), Rumania (**RO**), Poland (**PL**), Greece (**GR**), Portugal (**PT**) and the Netherlands (**NL**).
-Two are in <mark style="background-color: seagreen; opacity: 0.8; color: #fff">Asia:</mark> Turkey (**TR**) and United Arab Emirates (**AE**) and one is in the
-<mark style="background-color: dodgerblue; opacity: 0.8; color: #fff">Americas:</mark> the USA (**US**)._
+_This plot shows the Top 5 destinations of German air-traffic each month. Most are in <mark style="background-color: #bd1550; opacity: 1; color: #fff">Europe:</mark> Spain (**ES**), Great Britain (**GB**), Italy (**IT**), Austria (**AT**), Rumania (**RO**), Poland (**PL**), Greece (**GR**), Portugal (**PT**) and the Netherlands (**NL**).
+Two are in <mark style="background-color: seagreen; opacity: 1; color: #fff">Asia:</mark> Turkey (**TR**) and United Arab Emirates (**AE**) and one is in the
+<mark style="background-color: dodgerblue; opacity: 1; color: #fff">Americas:</mark> the USA (**US**)._
 
 We can see that the top destinations were in constant flux during the Covid epidemic, driven by changing travel restrictions and COVID incidences in the different countries.
 
