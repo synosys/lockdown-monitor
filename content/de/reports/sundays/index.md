@@ -3,6 +3,7 @@ date = "2021-05-18"
 title = 'Mobilität an Sonntagen und der Einfluss von Temperatur'
 slug = "sunday"
 draft = false
+authors = ["adrian"]
 +++
 
 In diesem Report schauen wir uns die Mobilität an Wochenenden an und zeigen wie die Mobilität von der Temperatur abhängt. Dabei haben wir spannende Zusammenhänge entdeckt.

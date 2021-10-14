@@ -6,7 +6,8 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-
+  title = "Covid-19 Mobility Project"
+  
 # Configure the German version.
 [de]
   languageCode = "de"

@@ -3,6 +3,7 @@ date = "2021-05-18"
 title = 'Mobility on Sundays and the Influence of Temperature'
 slug = "sunday"
 draft = false
+authors = ["adrian"]
 +++
 
 In this report, we take a look at mobility on weekends and show how it depends on temperature.
