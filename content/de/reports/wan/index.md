@@ -3,7 +3,7 @@ date = "2021-10-12"
 title = "Die Folgen der Pandemie für den Flugverkehr"
 slug = "air-traffic-pandemic"
 draft = false
-authors = ["adrian"]
+authors = ["adrian", "frank"]
 +++
 
 Im Frühjahr 2020 brachten die COVID-19 Pandemie und die folgenden Reisebeschränkungen und Lockdowns das weltweite Flugverkehrsnetz beinahe komplett zum Erliegen.

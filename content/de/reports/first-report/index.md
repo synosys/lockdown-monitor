@@ -2,6 +2,7 @@
 date = "2020-04-05"
 title = "Mobilität in Deutschland"
 slug = "first-report-general-mobility"
+authors = ["frank"]
 +++
 
 Social Distancing beschäftigt derzeit ganz Deutschland, und die Straßen fühlen sich deutlich leerer an als sonst. Aber stimmt dieser Eindruck? Bleiben Leute tatsächlich mehr Zuhause?

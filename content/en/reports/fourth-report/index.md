@@ -3,6 +3,7 @@ date = "2021-01-13"
 title = "Mobility on Christmas 2020"
 slug = "report-christmas-2020"
 draft = false
+authors = ["frank"]
 +++
 
 The last months of 2020 were an eventful time for mobility: The lockdown "light" in November was followed by a more strict lockdown in December. At the same time the holidays had a massive influence on mobility behavior - but in the same way as in previous years?

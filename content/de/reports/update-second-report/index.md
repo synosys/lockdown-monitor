@@ -2,6 +2,7 @@
 date = "2020-10-27"
 title = "Update: Verbesserung der Berechnung"
 slug = "update-calculation"
+authors = ["frank"]
 +++
 
 Wir haben die Methodik zur Berechnung der Mobilitätsänderung verbessert: Bisher wurde die Mobilität aus 2020 mit dem **März 2019** verglichen. Das funktionierte im Frühjahr gut, aber spätestens seit dem Sommer kann man davon ausgehen dass saisonale Änderungen der Mobilität so nicht optimal berücksichtigt werden.

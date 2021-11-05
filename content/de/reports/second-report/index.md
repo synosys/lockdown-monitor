@@ -3,6 +3,7 @@ date = "2020-04-15"
 title = "Anstieg der Mobilität"
 slug = "second-report"
 draft = false
+authors = ["frank"]
 +++
 
 In unserem ersten Bericht vom 5. April haben wir eine klare Verringerung der Mobilität in Deutschland festgestellt, die sich auf einem Niveau von **-39% weniger Bewegung** als normal stabilisiert hat.

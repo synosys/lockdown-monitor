@@ -2,6 +2,7 @@
 date = "2020-10-27"
 title = "Update: Improvement of mobility calculation"
 slug = "update-calculation"
+authors = ["frank"]
 +++
 
 We've improved the calculation of the mobility change: Until now, the mobility in 2020 was compared to **March 2019**. This worked well in spring, but especially in summer the seasonal changes in mobility patterns were not reflected well with this method.
