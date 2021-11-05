@@ -2,6 +2,7 @@
 date = "2020-04-05"
 title = "Mobility in Germany and Social Distancing"
 slug = "first-report-general-mobility"
+authors = ["frank"]
 +++
 
 Social distancing is on everyone's mind, and when you go outside in Germany the streets surely feel emptier. But are people actually staying at home more than usual?

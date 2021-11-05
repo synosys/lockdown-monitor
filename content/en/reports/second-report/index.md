@@ -2,6 +2,7 @@
 date = "2020-04-15"
 title = "Mobility on the rise"
 slug = "second-report"
+authors = ["frank"]
 +++
 
 In our first report from April 5th, we found a clear decline of mobility in Germany, leveling out at a level of around **-39% less mobility** compared to normal.

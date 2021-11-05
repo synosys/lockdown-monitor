@@ -3,6 +3,7 @@ date = "2021-03-31"
 title = 'Possible Effects of Curfews on Mobility'
 slug = "mobility-curfew"
 draft = false
+authors = ["frank"]
 +++
 
 The following chart shows the average mobility in Germany over the course of one day. It can be used to estimate which portion of mobility could be affected by a possible curfew.

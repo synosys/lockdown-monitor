@@ -3,7 +3,7 @@ date = "2021-10-12"
 title = "COVID-19's Impact on Air Travel"
 slug = "air-traffic-pandemic"
 draft = false
-authors = ["adrian"]
+authors = ["adrian", "frank"]
 +++
 
 In early 2020, COVID travel restrictions and high uncertainty led to an unprecedented disruption of air travel. Over a year later, daily mobility in Germany has largely returned to pre-pandemic levels, but air travel has remained deeply affected. In the blogpost, we take a look at how the pandemic has reshaped air travel in and around Germany.

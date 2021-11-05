@@ -3,6 +3,7 @@ date = "2021-01-13"
 title = "Mobilität über Weihnachten 2020"
 slug = "report-christmas-2020"
 draft = false
+authors = ["frank"]
 +++
 
 Ende 2020 war eine ereignisreiche Zeit aus Mobilitätssicht: Auf den Lockdown

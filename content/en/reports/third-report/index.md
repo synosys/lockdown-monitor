@@ -3,6 +3,7 @@ date = "2020-11-11"
 title = 'First week of "lockdown light"'
 slug = "report-second-lockdown"
 draft = false
+authors = ["frank"]
 +++
 
 On 2 November, 2020, comprehensive mobility restrictions took effect in Germany. It is hoped that this "lockdown light" will help flatten the curve of COVID-19 cases.

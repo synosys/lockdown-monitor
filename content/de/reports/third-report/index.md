@@ -3,6 +3,7 @@ date = "2020-11-11"
 title = 'Eine Woche "Lockdown-Light"'
 slug = "report-second-lockdown"
 draft = false
+authors = ["frank"]
 +++
 
 Seit dem 2. November 2020 gelten umfassende Mobilitätseinschränkungen in Deutschland. Durch diesen "Lockdown-light" erhofft man sich ein Abflachen der Kurve an Covid-19-Fallzahlen.

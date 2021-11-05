@@ -3,6 +3,7 @@ date = "2021-03-31"
 title = 'Mögliche Auswirkung von Ausgangssperren auf die Mobilität'
 slug = "mobility-curfew"
 draft = false
+authors = ["frank"]
 +++
 
 Die folgende Grafik zeigt die durchschnittliche Mobilität in Deutschland im Tagesverlauf. An ihr lässt sich abschätzen, welcher Teil der Mobilität durch eine mögliche Ausgangssperre betroffen sein könnte.

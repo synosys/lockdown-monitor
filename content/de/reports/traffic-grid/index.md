@@ -3,6 +3,7 @@ date = "2021-03-03"
 title = "Verkehr zwischen angrenzenden Stadt- und Landkreisen"
 slug = "traffic-grid"
 draft = false
+authors = ["adrian"]
 +++
 
 Im letzten Bericht haben wir die Mobilitätsdaten aus der Perspektive eines Kreises betrachtet.
@@ -16,10 +17,8 @@ Jede Linie zeigt den Verkehr zwischen zwei angrenzenden Kreisen. Da der Verkehr 
 
 Die Dicke der Verbindungen zeigt die durchschnittliche Anzahl an Bewegungen zwischen zwei Kreisen pro Tag in jeder Kalenderwoche. Die Richtung der Bewegungen zwischen den beiden Kreisen wird nicht unterschieden, da über einen längeren Zeitraum etwa gleich viele Menschen in beide Richtungen pendeln.
 
-*Hinweise zur Bedienung:* Ein Klick auf einen Kreis zoomt näher heran und zeigt den zeitlichen Verlauf des Verkehrs. Durch die Auswahl **Nah- und Fernverkehrbalken** kann man den Nahverkehr (innerhalb eines Kreises, schwarz) und Fernverkehr (mit nicht angrenzenden Kreisen, weiß) ein- oder ausblenden. Durch Abwählen der Option **alle Links anzeigen** kann man nur die Verbindungen des ausgewählten Kreises anzeigen.
+_Hinweise zur Bedienung:_ Ein Klick auf einen Kreis zoomt näher heran und zeigt den zeitlichen Verlauf des Verkehrs. Durch die Auswahl **Nah- und Fernverkehrbalken** kann man den Nahverkehr (innerhalb eines Kreises, schwarz) und Fernverkehr (mit nicht angrenzenden Kreisen, weiß) ein- oder ausblenden. Durch Abwählen der Option **alle Links anzeigen** kann man nur die Verbindungen des ausgewählten Kreises anzeigen.
 
 {{< iframe "https://observablehq.com/embed/@adrianzachariae/traffic-lattice-germany-deutsch?cells=viewof+values_new%2Cmap" "752px" >}}
 
-Wie schon beim letzten Report beruht diese Grafik auf einem [Observablehq Notebook](https://observablehq.com/@adrianzachariae/traffic-lattice-germany) und kann dort auch geforked und modifiziert werden. 
-
-
+Wie schon beim letzten Report beruht diese Grafik auf einem [Observablehq Notebook](https://observablehq.com/@adrianzachariae/traffic-lattice-germany) und kann dort auch geforked und modifiziert werden.
