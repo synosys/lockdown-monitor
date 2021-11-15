@@ -52,11 +52,11 @@ The data shown in the monitor is available [here](https://rocs.hu-berlin.de/viz/
 
 The analyses here are based on GPS trajectories of people living in Germany. However, what we receive from our cooperation partner is only the **average number of contacts per day** as well as their **variance** (in the section "What is a contact?" below, we explain how these observables relate to GPS trajectories). We do **not have access to the GPS location data** on which these measures are calculated.
 
-The GPS location data is collected by the German company [NETCHECK](https://www.netcheck.de/) using cell phones. This type of data is [commercially available](https://datarade.ai/data-categories/gps-location-data). Such data is used, for example, by public transportation companies to measure traffic or by mobile network operators to improve cellular networks.
+The GPS location data is collected by the German company [NET CHECK](https://www.netcheck.de/) using cell phones. This type of data is [commercially available](https://datarade.ai/data-categories/gps-location-data). Such data is used, for example, by public transportation companies to measure traffic or by mobile network operators to improve cellular networks.
 
 The GPS data is transmitted from the individual devices via a software development kit (SDK). This SDK is primarily used to evaluate the quality of mobile networks. It is installed on around **1.2 million devices** in Germany, where all users have given their consent to collect such data for statistical purposes. Each device transmits up to **several hundred locations** per day. Of all these devices, about **600,000 are active** every day.
 
-The data does **not contain any personal information** such as age or gender and, most importantly, all **users have consented to data collection** (by opting-in according to the [Terms of Use](https://www.netcheck.de/datenschutz/) of the SDK). All processing of raw GPS data is done at NETCHECK. We only receive information on the statistics that are shown here (such as the average contacts).
+The data does **not contain any personal information** such as age or gender and, most importantly, all **users have consented to data collection** (by opting-in according to the [Terms of Use](https://www.netcheck.de/datenschutz/) of the SDK). All processing of raw GPS data is done at NET CHECK. We only receive information on the statistics that are shown here (such as the average contacts).
 
 ## What is a contact (and a contact-network)?
 
@@ -66,7 +66,7 @@ The data does **not contain any personal information** such as age or gender and
 
 Each measured GPS location is assigned to an **area ("tile") of 8 square meters**. If two devices are on the same tile **within 2 minutes**, this event is defined as a **contact** between the two devices. If two devices meet more than once (for example, if a couple meets at home both in the morning and in the evening), the contact is still counted only once per day. Contacts are also not weighted by how much time the people spent near each other.
 
-Each contact can be considered a **connection** between two devices in a network. NETCHECK aggregates these contacts to create a **contact network** for each day. In the network, all devices are connected to each other that had a contact on that day (where we assume that each device corresponds to one person).
+Each contact can be considered a **connection** between two devices in a network. NET CHECK aggregates these contacts to create a **contact network** for each day. In the network, all devices are connected to each other that had a contact on that day (where we assume that each device corresponds to one person).
 
 ## How do we compute the mean contact number and its variation?
 

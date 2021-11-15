@@ -52,11 +52,11 @@ Die Daten die im Monitor gezeigt werden sind [hier](https://rocs.hu-berlin.de/vi
 
 Die Analysen hier beruhen auf GPS-Trajektorien von in Deutschland lebenden Personen. Was wir jedoch von unserem Kooperationspartner erhalten, ist nur die **durchschnittliche Anzahl der Kontakte pro Tag** sowie deren **Varianz** (im Abschnitt "Was ist ein Kontakt?" unten erklären wir, wie diese Beobachtungsgrößen mit GPS-Trajektorien zusammenhängen). Wir haben **keinen Zugang zu den GPS-Standortdaten**, auf deren Grundlage diese Maße berechnet werden.
 
-Die GPS-Standortdaten werden von dem deutschen Unternehmen [NETCHECK](https://www.netcheck.de/) mit Hilfe von Mobiltelefonen gesammelt. Diese Art von Daten sind [kommerziell verfügbar](https://datarade.ai/data-categories/gps-location-data). Sie werden beispielsweise verwendet von öffentlichen Verkehrsbetrieben oder von Mobilfunknetzbetreibern zur Verbesserung der Netzabdeckung.
+Die GPS-Standortdaten werden von dem deutschen Unternehmen [NET CHECK](https://www.netcheck.de/) mit Hilfe von Mobiltelefonen gesammelt. Diese Art von Daten sind [kommerziell verfügbar](https://datarade.ai/data-categories/gps-location-data). Sie werden beispielsweise verwendet von öffentlichen Verkehrsbetrieben oder von Mobilfunknetzbetreibern zur Verbesserung der Netzabdeckung.
 
 Die GPS-Daten werden von den einzelnen Geräten über ein Software Development Kit (SDK) übertragen. Dieses SDK dient in erster Linie dazu, die Qualität von Mobilfunknetzen zu bewerten. Es ist mit dem Einverständnis zur Datenerhebung auf rund **1,2 Millionen Geräten** in Deutschland installiert. Dabei sendet jedes Gerät bis zu **mehreren hundert Standorte** pro Tag. Von all diesen Geräten sind täglich etwa **600.000 aktiv**.
 
-Die Daten enthalten **keine persönlichen Informationen** wie Alter oder Geschlecht und, was am wichtigsten ist, alle **Nutzer haben einer Datenerhebung zugestimmt** (durch Opt-in gemäß den [Nutzungsbedingungen](https://www.netcheck.de/datenschutz/) der SDK). Die gesamte Verarbeitung der rohen GPS-Daten erfolgt bei NETCHECK, wir erhalten nur regelmäßige Aktualisierungen für die hier gezeigten Größen (durchschnittliche Kontakte).
+Die Daten enthalten **keine persönlichen Informationen** wie Alter oder Geschlecht und, was am wichtigsten ist, alle **Nutzer haben einer Datenerhebung zugestimmt** (durch Opt-in gemäß den [Nutzungsbedingungen](https://www.netcheck.de/datenschutz/) der SDK). Die gesamte Verarbeitung der rohen GPS-Daten erfolgt bei NET CHECK, wir erhalten nur regelmäßige Aktualisierungen für die hier gezeigten Größen (durchschnittliche Kontakte).
 
 ## Was ist ein Kontakt (und ein Kontakt-Netzwerk)?
 
@@ -66,7 +66,7 @@ Die Daten enthalten **keine persönlichen Informationen** wie Alter oder Geschle
 
 Jeder GPS-Standort wird einem **Bereich (“Kachel”) von 8 Quadratmetern** zugewiesen. Wenn sich zwei Geräte **innerhalb von 2 Minuten auf derselben Kachel befinden**, wird dieses Ereignis als **Kontakt** zwischen den beiden Geräten definiert. Wenn sich zwei Geräte mehrmals treffen (z. B. wenn sich ein Paar sowohl morgens als auch abends zu Hause trifft), wird der Kontakt trotzdem nur einmal gezählt. Die Kontakte werden auch nicht danach gewichtet, wie viel Zeit die Personen in der Nähe des anderen verbracht haben.
 
-Jeder Kontakt kann als eine **Verbindung** zwischen zwei Geräten in einem Netzwerk betrachtet werden. NETCHECK aggregiert diese Kontakte und erstellt so für jeden Tag ein **Kontaktnetzwerk**. In dem Netzwerk sind alle Geräte miteinander verbunden, die an diesem Tag einen Kontakt hatten (wobei wir davon ausgehen, dass jedes Gerät einer Person entspricht).
+Jeder Kontakt kann als eine **Verbindung** zwischen zwei Geräten in einem Netzwerk betrachtet werden. NET CHECK aggregiert diese Kontakte und erstellt so für jeden Tag ein **Kontaktnetzwerk**. In dem Netzwerk sind alle Geräte miteinander verbunden, die an diesem Tag einen Kontakt hatten (wobei wir davon ausgehen, dass jedes Gerät einer Person entspricht).
 
 ## Wie berechnen wir die mittlere Anzahl von Kontakten?
 
