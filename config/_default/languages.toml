@@ -6,12 +6,14 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  staticDir= "static"
   title = "Covid-19 Mobility Project"
   
 # Configure the German version.
 [de]
   languageCode = "de"
   contentDir = "content/de"
+  staticDir = "static"
   title = "Covid-19 Mobility Project"
   [de.params]
     description = "Projekt Mobility Monitor von Humboldt Universität und Robert Koch-Institut, gefördert durch das Bundesgesundheitsministerium"
