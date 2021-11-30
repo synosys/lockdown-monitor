@@ -1,7 +1,6 @@
 +++
 title = "Omicron - Import Risk"
 slug = "importrisk_omicron"
-draft = true
 date = "2021-11-29"
 +++
 
