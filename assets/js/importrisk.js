@@ -2,7 +2,7 @@
 	
 console.log(Object.keys(window))
 	
-var xr = [0,0.1]
+var xr = [0,0.05]
 var bar_opacity = 0.6
 var N_max_countries = 50
 var N_airports = 7		

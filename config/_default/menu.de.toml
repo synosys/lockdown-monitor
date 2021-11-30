@@ -45,6 +45,14 @@
   weight = 10
 
 [[main]]
+  name = "Import Risiko"
+  identifier = "import_risk-methods"
+  pre = ""
+  url = "data-info/import_risk"
+  parent = "Daten und Methoden"
+  weight = 15
+
+[[main]]
   name = "Team"
   url = "#people"
   weight = 60
