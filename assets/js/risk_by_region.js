@@ -1,6 +1,6 @@
 (function(){
 
-	var xr = [0,0.05]
+	var xr = [0,0.02]
 	var bar_opacity = 1
 	var N_max_countries = 10
 	var N_airports = 10		
