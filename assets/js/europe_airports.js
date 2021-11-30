@@ -4,7 +4,7 @@ var epistate = epistate_omicron;
 var datadir = "/data/import_risk/2021/"
 var current_cases_file = "/data/current_cases.json"	
 
-var xr = [0,0.008]
+var xr = [0,0.012]
 var bar_opacity = 1
 var N_airports = 20	
 
