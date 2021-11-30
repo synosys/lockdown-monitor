@@ -86,7 +86,7 @@ var import_risk_world;
 
 var master_data_queue = d3.queue();
 
-master_data_queue.defer(d3.json,current_cases_file)
+//master_data_queue.defer(d3.json,current_cases_file)
 
 Object.keys(epistate).forEach(function(r){
 		master_data_queue.defer(d3.json,datadir+"airports_"+r+"_wan_hierarchy.json")
@@ -98,15 +98,15 @@ master_data_queue.awaitAll(function(error,files){
 	
 		loading.transition().style("opacity",0).remove()
 		
-		current_cases = files[0];
-		countries_with_cases = current_cases["countries"];
+		//current_cases = files[0];
+		//countries_with_cases = current_cases["countries"];
 	
-		ss.domain(d3.extent(countries_with_cases
-			.filter(function(x){return x.name!="China" && x.name!="Others"}),function(c){return c.confirmed_cases}))
+		//ss.domain(d3.extent(countries_with_cases
+		//	.filter(function(x){return x.name!="Others"}),function(c){return c.confirmed_cases}))
 
 		countries = []
 		
-		files.shift()
+		//files.shift()
 
 		import_risk_world = integrate_import_risk_world(epistate,files)
 		world=JSON.parse(JSON.stringify(import_risk_world));

@@ -59,16 +59,15 @@ epistate_feb_10 ={"CAN":1350,"CGO":1272,"HGH":1206,"CSX":1018,"HFE":990,"KHN":93
 var epistate = epistate_feb_10;
 
 var epistate_omicron = {
- 'JNB': 638549.0,
- 'DUR': 224426.0,
- 'PLZ': 47082.0,
- 'HLA': 38409.0,
- 'CPT': 331169.0,
- 'GRJ': 34966.0,
- 'BFN': 10770.0,
- 'HDS': 10908.0,
- 'ELS': 36855.0,
- 'GBE': 8839.0
+ 'CPT': 233974.0,
+ 'JNB': 485861.0,
+ 'HLA': 37611.0,
+ 'PLZ': 33999.0,
+ 'ELS': 25912.0,
+ 'BFN': 10151.0,
+ 'DUR': 141155.0,
+ 'GRJ': 37430.0,
+ 'GBE': 6941.0
 }
 
 var datadir = "/corona/data/import_risk/2019/"
