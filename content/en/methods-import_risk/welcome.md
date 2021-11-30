@@ -21,10 +21,6 @@ title= ""
 
 ## Relative Import Risk Explained
 
-{{% callout warning %}}
-In order to interpret the results of the recent report on **import risk** of the **omicron variant**, it is important to understand the concept of **relative import risk** in the context of the COVID-19 outbreak and global air transportation.
-{{% /callout %}}
-
 {{% callout note %}}
 If an infected individual boards a plane at airport _**A**_ in an affected region,
 the relative import risk **_P(B|A)_** at airport _**B**_ quantifies the probability that airport _**B**_ is the final destination for that individual (irrespective of non-direct travel routes).
