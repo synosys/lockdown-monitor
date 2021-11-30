@@ -12,7 +12,7 @@ Einige Länder, wie z. B. Israel, haben bereits alle ankommenden Flüge aus Süd
 {{< rawhtml >}}
 <img class="special-img-class" style="width:100%" src="omicron_directLinks_wan.png" />
 {{< /rawhtml >}}
-_Highlighted are the 30 countries with direct flight connection to South Africa and Botswana (grey and red) and countries in which omicron was already detected (grey hatched, data up until 30.11.2021). The inset in the Pacific is a zoom on Europe. Note that countries with omicron reports do not necessarily have direct flight connections._
+_Hervorgehoben sind die 30 Länder mit direkter Flugverbindung nach Südafrika und Botswana (grau und rot) und Länder, in denen Omicron bereits entdeckt wurde (grau schraffiert, Daten bis zum 30.11.2021). Das Fenster im Pazifik ist ein Zoom auf Europa. Beachten Sie, dass Länder mit Omicron-Meldungen nicht unbedingt über direkte Flugverbindungen verfügen._
 
 ## Relatives Import Risiko
 
