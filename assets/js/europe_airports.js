@@ -39,7 +39,7 @@ var	airports = []
 
 var Q = d3.queue();
 
-Q.defer(d3.json,current_cases_file)
+//Q.defer(d3.json,current_cases_file)
 
 Object.keys(epistate).forEach(function(r){
 		Q.defer(d3.json,datadir+"airports_"+r+"_wan_hierarchy.json")
@@ -49,11 +49,11 @@ console.log(epistate)
 
 Q.awaitAll(function(error,files){
 	
-	current_cases = files[0];
-	countries_with_cases = current_cases["countries"];
+	//current_cases = files[0];
+	//countries_with_cases = current_cases["countries"];
 	countries = []
 	
-	files.shift()
+	//files.shift()
 
 	import_risk_world = integrate_import_risk_world(epistate,files)
 

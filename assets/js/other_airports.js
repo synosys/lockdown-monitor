@@ -3,9 +3,9 @@
 var xr = [0,0.03]
 var bar_opacity = 1
 var N_airports = 40	
-	var epistate = epistate_omicron;
-	var datadir = "/data/import_risk/2021/"
-	var current_cases_file = "/data/current_cases.json"	
+var epistate = epistate_omicron;
+var datadir = "/data/import_risk/2021/"
+//var current_cases_file = "/data/current_cases.json"	
 
 var contcolor = d3.scaleOrdinal()
 			.domain(continents)
@@ -56,7 +56,7 @@ var	airports = []
 
 var Q = d3.queue();
 
-Q.defer(d3.json,current_cases_file)
+//Q.defer(d3.json,current_cases_file)
 
 Object.keys(epistate).forEach(function(r){
 					Q.defer(d3.json,datadir+"airports_"+r+"_wan_hierarchy.json")
@@ -64,11 +64,11 @@ Object.keys(epistate).forEach(function(r){
 
 Q.awaitAll(function(error,files){
 		
-					current_cases = files[0];
-					countries_with_cases = current_cases["countries"];
+					//current_cases = files[0];
+					//countries_with_cases = current_cases["countries"];
 					countries = []
 		
-					files.shift()
+					//files.shift()
 
 					import_risk_world = integrate_import_risk_world(epistate,files)
 					world=JSON.parse(JSON.stringify(import_risk_world));
@@ -140,5 +140,4 @@ Q.awaitAll(function(error,files){
 				         .call(d3.axisLeft(y))
 });
 					
-
 })()
