@@ -24,7 +24,7 @@ organizations:
     email: klamser@physik.hu-berlin.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pascal researches human mobility, airport travel data, contact networks, collective behavior, evolution, phase transitions, infectiou diseases and opinion dynamics.
+bio: Pascal researches human mobility, airport travel data, contact networks, collective behavior, evolution, phase transitions, infectious diseases and opinion dynamics.
 
 # interests: optional
 interests:

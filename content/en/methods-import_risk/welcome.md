@@ -39,7 +39,7 @@ Say, 100 infected passengers board planes at airport **X** en route to destinati
 Whenever an infectious disease poses the risk of spreading into a global pandemic, air transportation plays a key role. Modern air traffic connects every corner of our globe. In doing so, it also enables regionally confined outbreaks of infectious diseases to "jump" across country borders at an unprecedented rate.
 
 {{% callout note %}}
-The core of the **computational model** (explained above, and in detail below) is the **worldwide air transporation network (WAN)** from **Sept. 2021**. This network has 3791 nodes (airports) that are connected by 46282 directed links (flight routes). Each link is weighted by the traffic flux between nodes, i.e. the average number of passengers that travel each route per day.
+The core of the **computational model** (explained above, and in detail below) is the **worldwide air transporation network (WAN)** from **August 2021**. This network has 3802 nodes (airports) that are connected by 46773 directed links (flight routes). Each link is weighted by the traffic flux between nodes, i.e. the average number of passengers that travel each route per day.
 {{% /callout  %}}
 
 The WAN has been analyzed in many publications and used in a variety of computational models for the spread of infectious diseases.
