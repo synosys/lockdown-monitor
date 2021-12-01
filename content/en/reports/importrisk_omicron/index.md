@@ -2,7 +2,7 @@
 title = "Omicron - Import Risk"
 slug = "importrisk_omicron"
 date = "2021-11-29"
-authors = ["adrian", "pascal", "frank", "benjamin", "dirk"]
+authors = ["adrian", "pascal", "frank", "benjamin", "clara", "dirk"]
 +++
 
 Omicron, the new variant of concern, was first detected in South Africa and Botswana on November 2021. Up until the date of this report (30.11.2021), according to GISAID it was reported in **11 other countries: Canada, Spain, Belgium, Netherlands, Germany, Italy, Austria, Czech Republic, Israel, Hong Kong (China) and Australia.**
