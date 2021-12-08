@@ -64,7 +64,7 @@ The data does **not contain any personal information** such as age or gender and
 <img class="special-img-class" style="width:400px; display:block; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:30px;" src="F1_reference_small.jpeg" />
 {{< /rawhtml >}}
 
-Each measured GPS location is assigned to an **area ("tile") of 8 square meters**. If two devices are on the same tile **within 2 minutes**, this event is defined as a **contact** between the two devices. If two devices meet more than once (for example, if a couple meets at home both in the morning and in the evening), the contact is still counted only once per day. Contacts are also not weighted by how much time the people spent near each other.
+Each measured GPS location is assigned to an **area ("tile") of 8x8 square meters**. If two devices are on the same tile **within 2 minutes**, this event is defined as a **contact** between the two devices. If two devices meet more than once (for example, if a couple meets at home both in the morning and in the evening), the contact is still counted only once per day. Contacts are also not weighted by how much time the people spent near each other.
 
 Each contact can be considered a **connection** between two devices in a network. NET CHECK aggregates these contacts to create a **contact network** for each day. In the network, all devices are connected to each other that had a contact on that day (where we assume that each device corresponds to one person).
 
