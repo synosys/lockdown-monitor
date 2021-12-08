@@ -64,7 +64,7 @@ Die Daten enthalten **keine persönlichen Informationen** wie Alter oder Geschle
 <img class="special-img-class" style="width:400px; display:block; margin-left:auto; margin-right:auto; margin-top:40px; margin-bottom:30px;" src="F1_reference_DE_small.jpeg" />
 {{< /rawhtml >}}
 
-Jeder GPS-Standort wird einem **Bereich (“Kachel”) von 8 Quadratmetern** zugewiesen. Wenn sich zwei Geräte **innerhalb von 2 Minuten auf derselben Kachel befinden**, wird dieses Ereignis als **Kontakt** zwischen den beiden Geräten definiert. Wenn sich zwei Geräte mehrmals treffen (z. B. wenn sich ein Paar sowohl morgens als auch abends zu Hause trifft), wird der Kontakt trotzdem nur einmal gezählt. Die Kontakte werden auch nicht danach gewichtet, wie viel Zeit die Personen in der Nähe des anderen verbracht haben.
+Jeder GPS-Standort wird einem **Bereich (“Kachel”) von 8x8 Quadratmetern** zugewiesen. Wenn sich zwei Geräte **innerhalb von 2 Minuten auf derselben Kachel befinden**, wird dieses Ereignis als **Kontakt** zwischen den beiden Geräten definiert. Wenn sich zwei Geräte mehrmals treffen (z. B. wenn sich ein Paar sowohl morgens als auch abends zu Hause trifft), wird der Kontakt trotzdem nur einmal gezählt. Die Kontakte werden auch nicht danach gewichtet, wie viel Zeit die Personen in der Nähe des anderen verbracht haben.
 
 Jeder Kontakt kann als eine **Verbindung** zwischen zwei Geräten in einem Netzwerk betrachtet werden. NET CHECK aggregiert diese Kontakte und erstellt so für jeden Tag ein **Kontaktnetzwerk**. In dem Netzwerk sind alle Geräte miteinander verbunden, die an diesem Tag einen Kontakt hatten (wobei wir davon ausgehen, dass jedes Gerät einer Person entspricht).
 
