@@ -6,7 +6,7 @@ draft = false
 authors = ["pascal"]
 +++
 
-Auf unserem [Kontakt-Monitor]({{< ref "/contact-index/index.md" >}}) können wir die mittleren Kontakte und die Variation der Kontakte auf Bundesebene verfolgen. Hier wollen wir uns mit Kontaktänderungen der einzelnen Bundesländer auseinandersetzen. Dabei fokussieren wir uns auf die jüngsten Entwicklungen des letzten Monats November 2021, da zu dieser Zeit einen massiven Anstieg der Fallzahlen verzeichnet wurde.
+Auf unserem [Kontakt-Monitor]({{< ref "/contact-index/index.md" >}}) können wir die mittleren Kontakte und die Variation der Kontakte auf Bundesebene verfolgen. Hier wollen wir uns mit Kontaktänderungen der einzelnen Bundesländer auseinandersetzen. Dabei fokussieren wir uns auf die jüngsten Entwicklungen des letzten Monats November 2021, da zu dieser Zeit ein massiver Anstieg der Fallzahlen verzeichnet wurde.
 
 Generell beobachten wir ein ähnliches Kontaktverhalten wie bereits auf Bundesebene bekannt: die **mittleren Kontakte** steigen seit April stetig an. In allen Bundesländern stiegen die mittleren Kontakte im November im Vergleich zum Oktober an. **Innerhalb des Monats November** (Trend im November) stiegen oder stagnierten die mittleren Kontakte in allen Bundesländern, mit **Ausnahme von Sachsen**, wo es einen **deutlichen Abwärtstrend** gibt.
 
