@@ -9,7 +9,7 @@ Here, we update and extend a recent [report]({{< ref "/importrisk_omicron" >}}) 
 
 Originally, we used the world aviation network to compute the shortest path from the airports from South Africa and Botswana to all other airports. Based on these shortest paths, we computed the import risk of omicron for each country. Thereby, we consider that passenger can also use connecting flights. Thus, not only countries with direct flight connections are at risk (for more details see [Import Risk methods]({{< ref "/methods-import_risk" >}})).
 
-Next to the import risk, **depends the detection of omicron** on the **number of sequenced positive tests** or the fraction thereof: The more you are looking for it, the more likely you find it. We see a positive relation between the import risk and the number of sequenced samples, which could be explained by the size and the wealth of the country: the number of passengers traveling to a specific country (as South Africa or Botswana) is larger the wealthier and larger the originating country.
+In addition to import risk, **omicron detection depends** on the **number of sequenced positive tests** or the fraction thereof: The more you are looking for it, the more likely you find it. We see a positive relation between the import risk and the number of sequenced samples, which could be explained by the size and the wealth of the country: the number of passengers traveling to a specific country (as South Africa or Botswana) is larger the wealthier and larger the originating country.
 
 {{< rawhtml >}}
 <img class="special-img-class" style="width:100%" src="omicron_scatter_plots.png" />
