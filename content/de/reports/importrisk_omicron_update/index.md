@@ -1,5 +1,5 @@
 +++
-title = "Update: Omikron - Import Risiko (evtl. betroffenen Länder)"
+title = "Update: Omikron - Import Risiko (evtl. betroffene Länder)"
 slug = "importrisk_omicron_update"
 date = "2021-12-17"
 authors = ["adrian", "pascal"]
