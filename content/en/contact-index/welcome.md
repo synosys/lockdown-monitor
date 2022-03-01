@@ -58,6 +58,6 @@ columns = "1"
 </div>
 
 <div class="contacts" class="col-md-12">
-<iframe id="contact-states-iframe" class="contact-monitor" frameborder="0" width="100%" height="760px" src="https://rocs.hu-berlin.de/viz/contactindex-monitor/states.html"></iframe>
+<iframe id="contact-states-iframe" class="contact-monitor" frameborder="0" width="100%" height="760px" src="https://rocs.hu-berlin.de/viz/contactindex-monitor/states.html?lang=en"></iframe>
 </div>
 
