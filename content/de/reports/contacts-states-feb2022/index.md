@@ -21,6 +21,8 @@ Wir können die **Kontaktmaße jedoch vergleichbar machen**, wenn wir sie **rela
 
 Die **relative Variation der Kontakte sind wie folgt zu lesen**: Hat Berlin beispielsweise einen relativen Wert von 1, so entspricht das Monatsmittel dem Maximum in 2021. Ein relativer Wert von 0,5 bedeutet, dass der aktuelle Monatsmittelwert auf halbem Weg zwischen den Minima und Maxima von 2021 liegt. Ein relativer Wert von 0 bedeutet, dass die Variation der Kontakte in Berlin genauso niedrig ist wie das Minimum in 2021.
 
+## Impfquote und Kontaktverhalten während der Omikron Welle
+
 Da wir uns im Februar 2022 voll in der Omikron Welle befanden, mit davor nie gesehenen Inzidenzen, sollte eine Bevölkerung, die sensitiv auf das Infektionsgeschehen reagiert, große Gruppenversammlungen vermeiden (Erinnerung: die Variation der Kontakte ist ein Schätzer für Gruppengrößen). Außerdem sollte eine sensitive Bevölkerung eine hohe Impfrate haben (um die Pandemie generell einzudämmen). So erwarten wir, **dass Länder mit einer hohen Impfrate eine niedrige relative Variation der Kontakte haben**.
 
 {{< rawhtml >}}
