@@ -51,3 +51,13 @@ columns = "1"
 
   <p style='font-size: medium'><i>Note on usage</i>: A time range can be selected by <b>clicking</b> and dragging; <b>double-clicking</b> resets the graphic.</p>
 </div>
+
+
+<div class="contacts-title col-md-12">
+  <h2>State-level contacts</h2>
+</div>
+
+<div class="contacts" class="col-md-12">
+<iframe id="contact-states-iframe" class="contact-monitor" frameborder="0" width="100%" height="760px" src="https://rocs.hu-berlin.de/viz/contactindex-monitor/states.html"></iframe>
+</div>
+
